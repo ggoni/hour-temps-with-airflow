@@ -4248,3 +4248,319 @@
 [2023-12-13 18:39:42,832] {logging_mixin.py:104} INFO - [2023-12-13 18:39:42,832] {dag.py:1818} INFO - Sync 1 DAGs
 [2023-12-13 18:39:45,917] {logging_mixin.py:104} INFO - [2023-12-13 18:39:45,916] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
 [2023-12-13 18:39:46,857] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 6.501 seconds
+[2023-12-13 19:03:06,108] {scheduler_job.py:182} INFO - Started process (PID=203) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:06,111] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:03:06,112] {logging_mixin.py:104} INFO - [2023-12-13 19:03:06,112] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:06,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:06,169] {logging_mixin.py:104} INFO - [2023-12-13 19:03:06,169] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:03:06,190] {logging_mixin.py:104} INFO - [2023-12-13 19:03:06,190] {dag.py:1837} INFO - Creating ORM DAG for dag_with_catchup_backfill_v02
+[2023-12-13 19:03:06,216] {logging_mixin.py:104} INFO - [2023-12-13 19:03:06,216] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:03:06,236] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.133 seconds
+[2023-12-13 19:03:16,893] {scheduler_job.py:182} INFO - Started process (PID=253) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:16,895] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:03:16,897] {logging_mixin.py:104} INFO - [2023-12-13 19:03:16,897] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:16,919] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:16,960] {logging_mixin.py:104} INFO - [2023-12-13 19:03:16,960] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:03:17,012] {logging_mixin.py:104} INFO - [2023-12-13 19:03:17,011] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:03:17,026] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.137 seconds
+[2023-12-13 19:03:28,611] {scheduler_job.py:182} INFO - Started process (PID=303) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:28,615] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:03:28,618] {logging_mixin.py:104} INFO - [2023-12-13 19:03:28,618] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:28,654] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:28,692] {logging_mixin.py:104} INFO - [2023-12-13 19:03:28,692] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:03:28,779] {logging_mixin.py:104} INFO - [2023-12-13 19:03:28,779] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:03:28,805] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.205 seconds
+[2023-12-13 19:03:39,580] {scheduler_job.py:182} INFO - Started process (PID=358) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:39,582] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:03:39,583] {logging_mixin.py:104} INFO - [2023-12-13 19:03:39,583] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:39,600] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:39,629] {logging_mixin.py:104} INFO - [2023-12-13 19:03:39,629] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:03:39,665] {logging_mixin.py:104} INFO - [2023-12-13 19:03:39,665] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:03:39,674] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.098 seconds
+[2023-12-13 19:03:50,338] {scheduler_job.py:182} INFO - Started process (PID=408) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:50,340] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:03:50,342] {logging_mixin.py:104} INFO - [2023-12-13 19:03:50,341] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:50,363] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:03:50,390] {logging_mixin.py:104} INFO - [2023-12-13 19:03:50,389] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:03:50,423] {logging_mixin.py:104} INFO - [2023-12-13 19:03:50,423] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:03:50,432] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.099 seconds
+[2023-12-13 19:04:00,945] {scheduler_job.py:182} INFO - Started process (PID=458) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:00,947] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:04:00,948] {logging_mixin.py:104} INFO - [2023-12-13 19:04:00,948] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:00,966] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:00,991] {logging_mixin.py:104} INFO - [2023-12-13 19:04:00,990] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:04:01,023] {logging_mixin.py:104} INFO - [2023-12-13 19:04:01,023] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:04:01,034] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.093 seconds
+[2023-12-13 19:04:11,683] {scheduler_job.py:182} INFO - Started process (PID=508) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:11,685] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:04:11,687] {logging_mixin.py:104} INFO - [2023-12-13 19:04:11,687] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:11,706] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:11,735] {logging_mixin.py:104} INFO - [2023-12-13 19:04:11,735] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:04:11,777] {logging_mixin.py:104} INFO - [2023-12-13 19:04:11,777] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:04:11,789] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.110 seconds
+[2023-12-13 19:04:22,336] {scheduler_job.py:182} INFO - Started process (PID=558) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:22,339] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:04:22,340] {logging_mixin.py:104} INFO - [2023-12-13 19:04:22,340] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:22,358] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:22,383] {logging_mixin.py:104} INFO - [2023-12-13 19:04:22,383] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:04:22,416] {logging_mixin.py:104} INFO - [2023-12-13 19:04:22,416] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:04:22,425] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.092 seconds
+[2023-12-13 19:04:33,127] {scheduler_job.py:182} INFO - Started process (PID=608) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:33,130] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:04:33,131] {logging_mixin.py:104} INFO - [2023-12-13 19:04:33,131] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:33,148] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:33,177] {logging_mixin.py:104} INFO - [2023-12-13 19:04:33,177] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:04:33,208] {logging_mixin.py:104} INFO - [2023-12-13 19:04:33,208] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:04:33,217] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.094 seconds
+[2023-12-13 19:04:43,639] {scheduler_job.py:182} INFO - Started process (PID=681) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:43,642] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:04:43,644] {logging_mixin.py:104} INFO - [2023-12-13 19:04:43,644] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:43,676] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:43,804] {logging_mixin.py:104} INFO - [2023-12-13 19:04:43,804] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:04:44,018] {logging_mixin.py:104} INFO - [2023-12-13 19:04:44,018] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:04:44,087] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.455 seconds
+[2023-12-13 19:04:54,549] {scheduler_job.py:182} INFO - Started process (PID=748) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:54,553] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:04:54,556] {logging_mixin.py:104} INFO - [2023-12-13 19:04:54,556] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:54,589] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:04:54,621] {logging_mixin.py:104} INFO - [2023-12-13 19:04:54,621] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:04:54,656] {logging_mixin.py:104} INFO - [2023-12-13 19:04:54,656] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:04:54,666] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.121 seconds
+[2023-12-13 19:05:05,237] {scheduler_job.py:182} INFO - Started process (PID=798) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:05,238] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:05:05,239] {logging_mixin.py:104} INFO - [2023-12-13 19:05:05,239] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:05,257] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:05,286] {logging_mixin.py:104} INFO - [2023-12-13 19:05:05,286] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:05:05,318] {logging_mixin.py:104} INFO - [2023-12-13 19:05:05,318] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:05:05,328] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.096 seconds
+[2023-12-13 19:05:15,924] {scheduler_job.py:182} INFO - Started process (PID=848) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:15,926] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:05:15,927] {logging_mixin.py:104} INFO - [2023-12-13 19:05:15,927] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:15,944] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:15,971] {logging_mixin.py:104} INFO - [2023-12-13 19:05:15,971] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:05:16,002] {logging_mixin.py:104} INFO - [2023-12-13 19:05:16,002] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:05:16,012] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.093 seconds
+[2023-12-13 19:05:26,667] {scheduler_job.py:182} INFO - Started process (PID=898) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:26,669] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:05:26,670] {logging_mixin.py:104} INFO - [2023-12-13 19:05:26,670] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:26,687] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:26,718] {logging_mixin.py:104} INFO - [2023-12-13 19:05:26,718] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:05:26,748] {logging_mixin.py:104} INFO - [2023-12-13 19:05:26,748] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:05:26,759] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.096 seconds
+[2023-12-13 19:05:37,337] {scheduler_job.py:182} INFO - Started process (PID=948) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:37,339] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:05:37,341] {logging_mixin.py:104} INFO - [2023-12-13 19:05:37,340] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:37,358] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:37,385] {logging_mixin.py:104} INFO - [2023-12-13 19:05:37,385] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:05:37,416] {logging_mixin.py:104} INFO - [2023-12-13 19:05:37,416] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:05:37,426] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.093 seconds
+[2023-12-13 19:05:48,014] {scheduler_job.py:182} INFO - Started process (PID=998) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:48,016] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:05:48,017] {logging_mixin.py:104} INFO - [2023-12-13 19:05:48,017] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:48,035] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:48,064] {logging_mixin.py:104} INFO - [2023-12-13 19:05:48,064] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:05:48,094] {logging_mixin.py:104} INFO - [2023-12-13 19:05:48,094] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:05:48,104] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.095 seconds
+[2023-12-13 19:05:58,687] {scheduler_job.py:182} INFO - Started process (PID=1048) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:58,689] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:05:58,690] {logging_mixin.py:104} INFO - [2023-12-13 19:05:58,690] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:58,708] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:05:58,735] {logging_mixin.py:104} INFO - [2023-12-13 19:05:58,735] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:05:58,765] {logging_mixin.py:104} INFO - [2023-12-13 19:05:58,765] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:05:58,774] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.092 seconds
+[2023-12-13 19:06:09,351] {scheduler_job.py:182} INFO - Started process (PID=1098) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:09,352] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:06:09,354] {logging_mixin.py:104} INFO - [2023-12-13 19:06:09,353] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:09,371] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:09,398] {logging_mixin.py:104} INFO - [2023-12-13 19:06:09,398] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:06:09,428] {logging_mixin.py:104} INFO - [2023-12-13 19:06:09,428] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:06:09,437] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.092 seconds
+[2023-12-13 19:06:20,032] {scheduler_job.py:182} INFO - Started process (PID=1148) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:20,034] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:06:20,035] {logging_mixin.py:104} INFO - [2023-12-13 19:06:20,035] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:20,057] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:20,092] {logging_mixin.py:104} INFO - [2023-12-13 19:06:20,092] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:06:20,129] {logging_mixin.py:104} INFO - [2023-12-13 19:06:20,129] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:06:20,139] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.113 seconds
+[2023-12-13 19:06:30,723] {scheduler_job.py:182} INFO - Started process (PID=1198) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:30,724] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:06:30,726] {logging_mixin.py:104} INFO - [2023-12-13 19:06:30,726] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:30,744] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:30,771] {logging_mixin.py:104} INFO - [2023-12-13 19:06:30,771] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:06:30,801] {logging_mixin.py:104} INFO - [2023-12-13 19:06:30,801] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:06:30,810] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.092 seconds
+[2023-12-13 19:06:41,456] {scheduler_job.py:182} INFO - Started process (PID=1248) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:41,458] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:06:41,459] {logging_mixin.py:104} INFO - [2023-12-13 19:06:41,459] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:41,477] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:41,505] {logging_mixin.py:104} INFO - [2023-12-13 19:06:41,504] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:06:41,537] {logging_mixin.py:104} INFO - [2023-12-13 19:06:41,537] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:06:41,546] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.097 seconds
+[2023-12-13 19:06:52,128] {scheduler_job.py:182} INFO - Started process (PID=1298) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:52,130] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:06:52,132] {logging_mixin.py:104} INFO - [2023-12-13 19:06:52,132] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:52,150] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:06:52,178] {logging_mixin.py:104} INFO - [2023-12-13 19:06:52,178] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:06:52,210] {logging_mixin.py:104} INFO - [2023-12-13 19:06:52,209] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:06:52,219] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.095 seconds
+[2023-12-13 19:07:02,835] {scheduler_job.py:182} INFO - Started process (PID=1348) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:02,837] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:07:02,839] {logging_mixin.py:104} INFO - [2023-12-13 19:07:02,838] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:02,862] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:02,890] {logging_mixin.py:104} INFO - [2023-12-13 19:07:02,890] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:07:02,921] {logging_mixin.py:104} INFO - [2023-12-13 19:07:02,921] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:07:02,929] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.099 seconds
+[2023-12-13 19:07:13,520] {scheduler_job.py:182} INFO - Started process (PID=1398) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:13,523] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:07:13,524] {logging_mixin.py:104} INFO - [2023-12-13 19:07:13,524] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:13,541] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:13,569] {logging_mixin.py:104} INFO - [2023-12-13 19:07:13,569] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:07:13,599] {logging_mixin.py:104} INFO - [2023-12-13 19:07:13,599] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:07:13,608] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.093 seconds
+[2023-12-13 19:07:24,295] {scheduler_job.py:182} INFO - Started process (PID=1448) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:24,298] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:07:24,299] {logging_mixin.py:104} INFO - [2023-12-13 19:07:24,299] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:24,317] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:24,347] {logging_mixin.py:104} INFO - [2023-12-13 19:07:24,347] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:07:24,381] {logging_mixin.py:104} INFO - [2023-12-13 19:07:24,381] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:07:24,391] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.101 seconds
+[2023-12-13 19:07:34,979] {scheduler_job.py:182} INFO - Started process (PID=1498) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:34,981] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:07:34,982] {logging_mixin.py:104} INFO - [2023-12-13 19:07:34,982] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:34,999] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:35,027] {logging_mixin.py:104} INFO - [2023-12-13 19:07:35,027] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:07:35,057] {logging_mixin.py:104} INFO - [2023-12-13 19:07:35,057] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:07:35,066] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.092 seconds
+[2023-12-13 19:07:45,663] {scheduler_job.py:182} INFO - Started process (PID=1548) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:45,666] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:07:45,667] {logging_mixin.py:104} INFO - [2023-12-13 19:07:45,667] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:45,687] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:45,711] {logging_mixin.py:104} INFO - [2023-12-13 19:07:45,711] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:07:45,742] {logging_mixin.py:104} INFO - [2023-12-13 19:07:45,741] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:07:45,751] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.092 seconds
+[2023-12-13 19:07:56,401] {scheduler_job.py:182} INFO - Started process (PID=1598) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:56,404] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:07:56,405] {logging_mixin.py:104} INFO - [2023-12-13 19:07:56,405] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:56,428] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:07:56,458] {logging_mixin.py:104} INFO - [2023-12-13 19:07:56,458] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:07:56,495] {logging_mixin.py:104} INFO - [2023-12-13 19:07:56,494] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:07:56,506] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.111 seconds
+[2023-12-13 19:08:07,132] {scheduler_job.py:182} INFO - Started process (PID=1648) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:07,134] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:08:07,136] {logging_mixin.py:104} INFO - [2023-12-13 19:08:07,135] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:07,155] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:07,182] {logging_mixin.py:104} INFO - [2023-12-13 19:08:07,182] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:08:07,215] {logging_mixin.py:104} INFO - [2023-12-13 19:08:07,215] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:08:07,226] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.099 seconds
+[2023-12-13 19:08:17,830] {scheduler_job.py:182} INFO - Started process (PID=1698) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:17,832] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:08:17,833] {logging_mixin.py:104} INFO - [2023-12-13 19:08:17,833] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:17,853] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:17,879] {logging_mixin.py:104} INFO - [2023-12-13 19:08:17,879] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:08:17,909] {logging_mixin.py:104} INFO - [2023-12-13 19:08:17,909] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:08:17,918] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.093 seconds
+[2023-12-13 19:08:28,505] {scheduler_job.py:182} INFO - Started process (PID=1748) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:28,508] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:08:28,509] {logging_mixin.py:104} INFO - [2023-12-13 19:08:28,509] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:28,530] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:28,556] {logging_mixin.py:104} INFO - [2023-12-13 19:08:28,556] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:08:28,588] {logging_mixin.py:104} INFO - [2023-12-13 19:08:28,588] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:08:28,598] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.098 seconds
+[2023-12-13 19:08:39,260] {scheduler_job.py:182} INFO - Started process (PID=1798) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:39,263] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:08:39,265] {logging_mixin.py:104} INFO - [2023-12-13 19:08:39,265] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:39,294] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:39,321] {logging_mixin.py:104} INFO - [2023-12-13 19:08:39,321] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:08:39,353] {logging_mixin.py:104} INFO - [2023-12-13 19:08:39,353] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:08:39,362] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.108 seconds
+[2023-12-13 19:08:49,951] {scheduler_job.py:182} INFO - Started process (PID=1848) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:49,954] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:08:49,956] {logging_mixin.py:104} INFO - [2023-12-13 19:08:49,956] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:49,985] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:08:50,013] {logging_mixin.py:104} INFO - [2023-12-13 19:08:50,013] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:08:50,044] {logging_mixin.py:104} INFO - [2023-12-13 19:08:50,044] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:08:50,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.110 seconds
+[2023-12-13 19:09:00,900] {scheduler_job.py:182} INFO - Started process (PID=1898) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:00,903] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:09:00,905] {logging_mixin.py:104} INFO - [2023-12-13 19:09:00,905] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:00,933] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:00,969] {logging_mixin.py:104} INFO - [2023-12-13 19:09:00,969] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:09:01,005] {logging_mixin.py:104} INFO - [2023-12-13 19:09:01,005] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:09:01,018] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.123 seconds
+[2023-12-13 19:09:11,601] {scheduler_job.py:182} INFO - Started process (PID=1948) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:11,602] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:09:11,604] {logging_mixin.py:104} INFO - [2023-12-13 19:09:11,603] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:11,623] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:11,649] {logging_mixin.py:104} INFO - [2023-12-13 19:09:11,649] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:09:11,681] {logging_mixin.py:104} INFO - [2023-12-13 19:09:11,681] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:09:11,691] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.095 seconds
+[2023-12-13 19:09:22,266] {scheduler_job.py:182} INFO - Started process (PID=1998) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:22,268] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:09:22,269] {logging_mixin.py:104} INFO - [2023-12-13 19:09:22,269] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:22,289] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:22,315] {logging_mixin.py:104} INFO - [2023-12-13 19:09:22,315] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:09:22,347] {logging_mixin.py:104} INFO - [2023-12-13 19:09:22,347] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:09:22,358] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.098 seconds
+[2023-12-13 19:09:32,975] {scheduler_job.py:182} INFO - Started process (PID=2048) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:32,977] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:09:32,979] {logging_mixin.py:104} INFO - [2023-12-13 19:09:32,978] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:33,000] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:33,026] {logging_mixin.py:104} INFO - [2023-12-13 19:09:33,026] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:09:33,056] {logging_mixin.py:104} INFO - [2023-12-13 19:09:33,056] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:09:33,065] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.095 seconds
+[2023-12-13 19:09:43,656] {scheduler_job.py:182} INFO - Started process (PID=2098) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:43,658] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:09:43,659] {logging_mixin.py:104} INFO - [2023-12-13 19:09:43,659] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:43,680] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:43,705] {logging_mixin.py:104} INFO - [2023-12-13 19:09:43,705] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:09:43,736] {logging_mixin.py:104} INFO - [2023-12-13 19:09:43,735] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:09:43,744] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.093 seconds
+[2023-12-13 19:09:54,365] {scheduler_job.py:182} INFO - Started process (PID=2148) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:54,370] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:09:54,371] {logging_mixin.py:104} INFO - [2023-12-13 19:09:54,371] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:54,389] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:09:54,415] {logging_mixin.py:104} INFO - [2023-12-13 19:09:54,414] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:09:54,450] {logging_mixin.py:104} INFO - [2023-12-13 19:09:54,449] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:09:54,460] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.102 seconds
+[2023-12-13 19:10:05,054] {scheduler_job.py:182} INFO - Started process (PID=2198) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:05,060] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:10:05,062] {logging_mixin.py:104} INFO - [2023-12-13 19:10:05,061] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:05,080] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:05,108] {logging_mixin.py:104} INFO - [2023-12-13 19:10:05,108] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:10:05,141] {logging_mixin.py:104} INFO - [2023-12-13 19:10:05,140] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:10:05,151] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.101 seconds
+[2023-12-13 19:10:15,823] {scheduler_job.py:182} INFO - Started process (PID=2248) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:15,829] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:10:15,830] {logging_mixin.py:104} INFO - [2023-12-13 19:10:15,830] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:15,846] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:15,872] {logging_mixin.py:104} INFO - [2023-12-13 19:10:15,872] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:10:15,903] {logging_mixin.py:104} INFO - [2023-12-13 19:10:15,903] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:10:15,912] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.094 seconds
+[2023-12-13 19:10:26,493] {scheduler_job.py:182} INFO - Started process (PID=2298) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:26,497] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:10:26,499] {logging_mixin.py:104} INFO - [2023-12-13 19:10:26,499] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:26,526] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:26,554] {logging_mixin.py:104} INFO - [2023-12-13 19:10:26,554] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:10:26,596] {logging_mixin.py:104} INFO - [2023-12-13 19:10:26,596] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:10:26,610] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.123 seconds
+[2023-12-13 19:10:37,211] {scheduler_job.py:182} INFO - Started process (PID=2348) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:37,213] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:10:37,214] {logging_mixin.py:104} INFO - [2023-12-13 19:10:37,214] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:37,231] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:37,256] {logging_mixin.py:104} INFO - [2023-12-13 19:10:37,256] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:10:37,291] {logging_mixin.py:104} INFO - [2023-12-13 19:10:37,291] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:10:37,301] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.096 seconds
+[2023-12-13 19:10:47,877] {scheduler_job.py:182} INFO - Started process (PID=2398) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:47,879] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:10:47,880] {logging_mixin.py:104} INFO - [2023-12-13 19:10:47,880] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:47,899] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:47,925] {logging_mixin.py:104} INFO - [2023-12-13 19:10:47,925] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:10:47,956] {logging_mixin.py:104} INFO - [2023-12-13 19:10:47,956] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:10:47,966] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.094 seconds
+[2023-12-13 19:10:58,632] {scheduler_job.py:182} INFO - Started process (PID=2448) to work on /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:58,634] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_catchup_and_backfill.py for tasks to queue
+[2023-12-13 19:10:58,636] {logging_mixin.py:104} INFO - [2023-12-13 19:10:58,635] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:58,653] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_catchup_backfill_v02']) retrieved from /opt/airflow/dags/dag_with_catchup_and_backfill.py
+[2023-12-13 19:10:58,678] {logging_mixin.py:104} INFO - [2023-12-13 19:10:58,678] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-13 19:10:58,709] {logging_mixin.py:104} INFO - [2023-12-13 19:10:58,709] {dag.py:2273} INFO - Setting next_dagrun for dag_with_catchup_backfill_v02 to 2023-12-12 00:00:00+00:00
+[2023-12-13 19:10:58,719] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_catchup_and_backfill.py took 0.091 seconds

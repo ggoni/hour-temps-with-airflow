@@ -33,3 +33,25 @@ Traceback (most recent call last):
 NameError: name 'locations' is not defined
 [2023-12-13 16:33:35,760] {taskinstance.py:1503} INFO - Marking task as FAILED. dag_id=dag_with_python_weather_v01, task_id=fill, execution_date=20231213T090000, start_date=20231213T163333, end_date=20231213T163335
 [2023-12-13 16:33:36,067] {local_task_job.py:146} INFO - Task exited with return code 1
+[2023-12-13 19:04:43,448] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_weather_v01.fill 2023-12-13T09:00:00+00:00 [queued]>
+[2023-12-13 19:04:43,491] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_weather_v01.fill 2023-12-13T09:00:00+00:00 [queued]>
+[2023-12-13 19:04:43,492] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-13 19:04:43,493] {taskinstance.py:1043} INFO - Starting attempt 1 of 1
+[2023-12-13 19:04:43,494] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-13 19:04:43,517] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): fill> on 2023-12-13T09:00:00+00:00
+[2023-12-13 19:04:43,525] {standard_task_runner.py:52} INFO - Started process 678 to run task
+[2023-12-13 19:04:43,537] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_python_weather_v01', 'fill', '2023-12-13T09:00:00+00:00', '--job-id', '11', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_python_weather.py', '--cfg-path', '/tmp/tmpov9qtt6w', '--error-file', '/tmp/tmpiiwgj2pf']
+[2023-12-13 19:04:43,550] {standard_task_runner.py:77} INFO - Job 11: Subtask fill
+[2023-12-13 19:04:43,666] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_with_python_weather_v01.fill 2023-12-13T09:00:00+00:00 [running]> on host 21326130d467
+[2023-12-13 19:04:43,898] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=ggoni
+AIRFLOW_CTX_DAG_ID=dag_with_python_weather_v01
+AIRFLOW_CTX_TASK_ID=fill
+AIRFLOW_CTX_EXECUTION_DATE=2023-12-13T09:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-12-13T09:00:00+00:00
+[2023-12-13 19:04:44,320] {python.py:118} INFO - Done. Returned value was: None
+[2023-12-13 19:04:44,343] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=dag_with_python_weather_v01, task_id=fill, execution_date=20231213T090000, start_date=20231213T190443, end_date=20231213T190444
+[2023-12-13 19:04:44,455] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-12-13 19:04:44,472] {local_task_job.py:146} INFO - Task exited with return code 0
