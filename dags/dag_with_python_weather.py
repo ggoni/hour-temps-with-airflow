@@ -88,7 +88,7 @@ def fill():
 with DAG(
     default_args=default_args,
     dag_id="dag_with_python_weather_v01",
-    start_date=datetime(2023, 12, 13, 0),
+    start_date=datetime(2023, 12, 13, 17),
     schedule_interval='@hourly'
 ) as dag:
     task1 = PythonOperator(
