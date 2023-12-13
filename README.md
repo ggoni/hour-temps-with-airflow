@@ -1,7 +1,7 @@
 # Comparing temperatures between two places ("Comunas")
 
 
-:## Context
+## Context
 
 We are using Airflow to run an API query every hour (I know is overkill 😊)
 
