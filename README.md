@@ -18,19 +18,24 @@ Here are the steps to take to get airflow 2.0 running with docker on your machin
 
 ## Docker instructions
 
-1. Launch airflow by docker-compose
+1. Launch airflow 
+   ```bash
+   docker-compose airflow-init
+   ```
+   
+2. Launch airflow by docker-compose
     ```bash
     docker-compose up -d
     ```
 
-2. Check the running containers
+3. Check the running containers
     ```bash
     docker ps
     ```
 
-3. Go to `localhost:8080`
+4. Go to `localhost:8080`
 
-4. Check that the dag named *dag_with_python_weather* is running
+5. Check that the dag named *dag_with_python_weather* is running
 
 ## Pending work
 
