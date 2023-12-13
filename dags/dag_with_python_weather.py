@@ -13,7 +13,7 @@ load_dotenv()
 
 api_key = os.getenv('API_KEY')
 
-locations = ['Quilpué, Valparaíso', 'Vitacura, Santiago']
+locations = ['Quilpué', 'Vitacura']
 
 
 default_args = {
