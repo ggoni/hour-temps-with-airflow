@@ -13,7 +13,7 @@ Here are the steps to take to get airflow 2.0 running with docker on your machin
 
 ## Obtain API Key
 
-- Go to [this url](http://api.weatherapi.com/) and get yours
+- Go to [this url](https://www.weatherapi.com/) and get yours
 - Save the API Key in an .env file (We are using dotenv): Check *dag_with_python_weather.py* for details 
 
 ## Docker instructions
