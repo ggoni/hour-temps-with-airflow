@@ -20,7 +20,7 @@ Here are the steps to take to get airflow 2.0 running with docker on your machin
 
 1. Launch airflow 
    ```bash
-   docker-compose -d airflow-init
+   docker-compose up -d airflow-init
    ```
    
 2. Launch airflow services by docker-compose
