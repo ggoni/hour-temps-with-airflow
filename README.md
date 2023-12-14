@@ -41,4 +41,4 @@ Here are the steps to take to get airflow 2.0 running with docker on your machin
 
 - [ ] Fix relative paths
 - [ ] Improve plots
-- [ ] Persist in the database
+- [ ] Persist records in a database
