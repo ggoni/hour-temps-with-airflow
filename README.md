@@ -2,7 +2,7 @@
 
 ## Context
 
-We are using Airflow to run an API query every hour (I know this is overkill 😊)
+We are using [Airflow](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html) to run an API query every hour (I know this is overkill 😊)
 
 Here are the steps to take to get airflow 2.0 running with docker on your machine. 
 1. Clone this repo
