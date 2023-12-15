@@ -39,7 +39,7 @@ Here are the steps to take to get airflow 2.0 running with docker on your machin
 
 ## Temperature measurements in December 2023
 
-
+(./images/stripplot.png)
 
 ## Pending work
 
