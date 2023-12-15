@@ -1,0 +1,1337 @@
+[2023-12-15 00:00:08,095] {scheduler_job.py:182} INFO - Started process (PID=79299) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:08,098] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:00:08,100] {logging_mixin.py:104} INFO - [2023-12-15 00:00:08,100] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:08,198] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:08,220] {logging_mixin.py:104} INFO - [2023-12-15 00:00:08,220] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:00:08,240] {logging_mixin.py:104} INFO - [2023-12-15 00:00:08,240] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:00:08,250] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.159 seconds
+[2023-12-15 00:00:18,790] {scheduler_job.py:182} INFO - Started process (PID=79349) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:18,792] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:00:18,794] {logging_mixin.py:104} INFO - [2023-12-15 00:00:18,793] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:18,904] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:18,930] {logging_mixin.py:104} INFO - [2023-12-15 00:00:18,929] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:00:18,951] {logging_mixin.py:104} INFO - [2023-12-15 00:00:18,951] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:00:18,959] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.173 seconds
+[2023-12-15 00:00:29,443] {scheduler_job.py:182} INFO - Started process (PID=79399) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:29,445] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:00:29,446] {logging_mixin.py:104} INFO - [2023-12-15 00:00:29,446] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:29,562] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:29,602] {logging_mixin.py:104} INFO - [2023-12-15 00:00:29,602] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:00:29,624] {logging_mixin.py:104} INFO - [2023-12-15 00:00:29,624] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:00:29,633] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.194 seconds
+[2023-12-15 00:00:40,068] {scheduler_job.py:182} INFO - Started process (PID=79449) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:40,070] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:00:40,072] {logging_mixin.py:104} INFO - [2023-12-15 00:00:40,072] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:40,174] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:40,199] {logging_mixin.py:104} INFO - [2023-12-15 00:00:40,199] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:00:40,219] {logging_mixin.py:104} INFO - [2023-12-15 00:00:40,219] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:00:40,228] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.164 seconds
+[2023-12-15 00:00:50,713] {scheduler_job.py:182} INFO - Started process (PID=79499) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:50,714] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:00:50,715] {logging_mixin.py:104} INFO - [2023-12-15 00:00:50,715] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:50,811] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:00:50,833] {logging_mixin.py:104} INFO - [2023-12-15 00:00:50,833] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:00:50,853] {logging_mixin.py:104} INFO - [2023-12-15 00:00:50,853] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:00:50,861] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.152 seconds
+[2023-12-15 00:01:01,301] {scheduler_job.py:182} INFO - Started process (PID=79549) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:01,303] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:01:01,304] {logging_mixin.py:104} INFO - [2023-12-15 00:01:01,304] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:01,403] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:01,427] {logging_mixin.py:104} INFO - [2023-12-15 00:01:01,427] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:01:01,446] {logging_mixin.py:104} INFO - [2023-12-15 00:01:01,446] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:01:01,456] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.157 seconds
+[2023-12-15 00:01:12,035] {scheduler_job.py:182} INFO - Started process (PID=79599) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:12,039] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:01:12,040] {logging_mixin.py:104} INFO - [2023-12-15 00:01:12,040] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:12,160] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:12,182] {logging_mixin.py:104} INFO - [2023-12-15 00:01:12,182] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:01:12,210] {logging_mixin.py:104} INFO - [2023-12-15 00:01:12,210] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:01:12,231] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.201 seconds
+[2023-12-15 00:01:22,766] {scheduler_job.py:182} INFO - Started process (PID=79649) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:22,768] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:01:22,769] {logging_mixin.py:104} INFO - [2023-12-15 00:01:22,768] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:22,871] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:22,897] {logging_mixin.py:104} INFO - [2023-12-15 00:01:22,897] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:01:22,923] {logging_mixin.py:104} INFO - [2023-12-15 00:01:22,923] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:01:22,931] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.170 seconds
+[2023-12-15 00:01:33,381] {scheduler_job.py:182} INFO - Started process (PID=79699) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:33,384] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:01:33,385] {logging_mixin.py:104} INFO - [2023-12-15 00:01:33,385] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:33,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:33,503] {logging_mixin.py:104} INFO - [2023-12-15 00:01:33,502] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:01:33,522] {logging_mixin.py:104} INFO - [2023-12-15 00:01:33,522] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:01:33,531] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.154 seconds
+[2023-12-15 00:01:43,977] {scheduler_job.py:182} INFO - Started process (PID=79749) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:43,980] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:01:43,981] {logging_mixin.py:104} INFO - [2023-12-15 00:01:43,981] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:44,121] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:44,150] {logging_mixin.py:104} INFO - [2023-12-15 00:01:44,150] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:01:44,190] {logging_mixin.py:104} INFO - [2023-12-15 00:01:44,189] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:01:44,205] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.233 seconds
+[2023-12-15 00:01:54,821] {scheduler_job.py:182} INFO - Started process (PID=79799) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:54,824] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:01:54,825] {logging_mixin.py:104} INFO - [2023-12-15 00:01:54,825] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:54,937] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:01:54,962] {logging_mixin.py:104} INFO - [2023-12-15 00:01:54,962] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:01:54,986] {logging_mixin.py:104} INFO - [2023-12-15 00:01:54,985] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:01:54,996] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.181 seconds
+[2023-12-15 00:02:05,062] {scheduler_job.py:182} INFO - Started process (PID=79852) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:05,064] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:02:05,065] {logging_mixin.py:104} INFO - [2023-12-15 00:02:05,065] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:05,182] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:05,223] {logging_mixin.py:104} INFO - [2023-12-15 00:02:05,223] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:02:05,324] {logging_mixin.py:104} INFO - [2023-12-15 00:02:05,323] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:02:05,434] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.377 seconds
+[2023-12-15 00:02:16,165] {scheduler_job.py:182} INFO - Started process (PID=79904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:16,167] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:02:16,168] {logging_mixin.py:104} INFO - [2023-12-15 00:02:16,168] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:16,268] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:16,291] {logging_mixin.py:104} INFO - [2023-12-15 00:02:16,291] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:02:16,319] {logging_mixin.py:104} INFO - [2023-12-15 00:02:16,319] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:02:16,328] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.168 seconds
+[2023-12-15 00:02:26,874] {scheduler_job.py:182} INFO - Started process (PID=79954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:26,877] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:02:26,878] {logging_mixin.py:104} INFO - [2023-12-15 00:02:26,877] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:26,974] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:26,997] {logging_mixin.py:104} INFO - [2023-12-15 00:02:26,997] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:02:27,030] {logging_mixin.py:104} INFO - [2023-12-15 00:02:27,030] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:02:27,044] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.173 seconds
+[2023-12-15 00:02:37,539] {scheduler_job.py:182} INFO - Started process (PID=80004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:37,540] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:02:37,541] {logging_mixin.py:104} INFO - [2023-12-15 00:02:37,541] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:37,630] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:37,651] {logging_mixin.py:104} INFO - [2023-12-15 00:02:37,651] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:02:37,674] {logging_mixin.py:104} INFO - [2023-12-15 00:02:37,674] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:02:37,685] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.149 seconds
+[2023-12-15 00:02:48,058] {scheduler_job.py:182} INFO - Started process (PID=80054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:48,060] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:02:48,061] {logging_mixin.py:104} INFO - [2023-12-15 00:02:48,061] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:48,156] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:48,185] {logging_mixin.py:104} INFO - [2023-12-15 00:02:48,185] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:02:48,207] {logging_mixin.py:104} INFO - [2023-12-15 00:02:48,207] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:02:48,218] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.164 seconds
+[2023-12-15 00:02:58,733] {scheduler_job.py:182} INFO - Started process (PID=80104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:58,734] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:02:58,735] {logging_mixin.py:104} INFO - [2023-12-15 00:02:58,735] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:58,823] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:02:58,846] {logging_mixin.py:104} INFO - [2023-12-15 00:02:58,845] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:02:58,868] {logging_mixin.py:104} INFO - [2023-12-15 00:02:58,868] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:02:58,879] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.150 seconds
+[2023-12-15 00:03:09,387] {scheduler_job.py:182} INFO - Started process (PID=80154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:09,389] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:03:09,390] {logging_mixin.py:104} INFO - [2023-12-15 00:03:09,390] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:09,490] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:09,517] {logging_mixin.py:104} INFO - [2023-12-15 00:03:09,517] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:03:09,543] {logging_mixin.py:104} INFO - [2023-12-15 00:03:09,543] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:03:09,553] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.170 seconds
+[2023-12-15 00:03:20,004] {scheduler_job.py:182} INFO - Started process (PID=80204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:20,006] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:03:20,007] {logging_mixin.py:104} INFO - [2023-12-15 00:03:20,007] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:20,100] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:20,126] {logging_mixin.py:104} INFO - [2023-12-15 00:03:20,126] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:03:20,147] {logging_mixin.py:104} INFO - [2023-12-15 00:03:20,147] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:03:20,156] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.157 seconds
+[2023-12-15 00:03:30,621] {scheduler_job.py:182} INFO - Started process (PID=80254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:30,623] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:03:30,624] {logging_mixin.py:104} INFO - [2023-12-15 00:03:30,624] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:30,710] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:30,735] {logging_mixin.py:104} INFO - [2023-12-15 00:03:30,734] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:03:30,754] {logging_mixin.py:104} INFO - [2023-12-15 00:03:30,754] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:03:30,764] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.146 seconds
+[2023-12-15 00:03:41,129] {scheduler_job.py:182} INFO - Started process (PID=80304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:41,130] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:03:41,132] {logging_mixin.py:104} INFO - [2023-12-15 00:03:41,132] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:41,218] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:41,243] {logging_mixin.py:104} INFO - [2023-12-15 00:03:41,242] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:03:41,263] {logging_mixin.py:104} INFO - [2023-12-15 00:03:41,263] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:03:41,274] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.149 seconds
+[2023-12-15 00:03:51,920] {scheduler_job.py:182} INFO - Started process (PID=80354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:51,923] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:03:51,928] {logging_mixin.py:104} INFO - [2023-12-15 00:03:51,927] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:52,133] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:03:52,173] {logging_mixin.py:104} INFO - [2023-12-15 00:03:52,172] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:03:52,212] {logging_mixin.py:104} INFO - [2023-12-15 00:03:52,212] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:03:52,232] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.317 seconds
+[2023-12-15 00:04:02,463] {scheduler_job.py:182} INFO - Started process (PID=80404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:02,465] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:04:02,466] {logging_mixin.py:104} INFO - [2023-12-15 00:04:02,466] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:02,551] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:02,573] {logging_mixin.py:104} INFO - [2023-12-15 00:04:02,572] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:04:02,592] {logging_mixin.py:104} INFO - [2023-12-15 00:04:02,592] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:04:02,602] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:04:13,023] {scheduler_job.py:182} INFO - Started process (PID=80454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:13,025] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:04:13,026] {logging_mixin.py:104} INFO - [2023-12-15 00:04:13,026] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:13,102] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:13,123] {logging_mixin.py:104} INFO - [2023-12-15 00:04:13,123] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:04:13,143] {logging_mixin.py:104} INFO - [2023-12-15 00:04:13,143] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:04:13,153] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.133 seconds
+[2023-12-15 00:04:23,555] {scheduler_job.py:182} INFO - Started process (PID=80504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:23,557] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:04:23,559] {logging_mixin.py:104} INFO - [2023-12-15 00:04:23,558] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:23,644] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:23,665] {logging_mixin.py:104} INFO - [2023-12-15 00:04:23,665] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:04:23,684] {logging_mixin.py:104} INFO - [2023-12-15 00:04:23,684] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:04:23,694] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.143 seconds
+[2023-12-15 00:04:34,137] {scheduler_job.py:182} INFO - Started process (PID=80554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:34,139] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:04:34,140] {logging_mixin.py:104} INFO - [2023-12-15 00:04:34,140] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:34,220] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:34,242] {logging_mixin.py:104} INFO - [2023-12-15 00:04:34,242] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:04:34,262] {logging_mixin.py:104} INFO - [2023-12-15 00:04:34,262] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:04:34,273] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.139 seconds
+[2023-12-15 00:04:44,718] {scheduler_job.py:182} INFO - Started process (PID=80604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:44,720] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:04:44,721] {logging_mixin.py:104} INFO - [2023-12-15 00:04:44,721] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:44,799] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:44,819] {logging_mixin.py:104} INFO - [2023-12-15 00:04:44,819] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:04:44,839] {logging_mixin.py:104} INFO - [2023-12-15 00:04:44,839] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:04:44,850] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.135 seconds
+[2023-12-15 00:04:55,378] {scheduler_job.py:182} INFO - Started process (PID=80654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:55,381] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:04:55,383] {logging_mixin.py:104} INFO - [2023-12-15 00:04:55,383] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:55,466] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:04:55,486] {logging_mixin.py:104} INFO - [2023-12-15 00:04:55,486] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:04:55,505] {logging_mixin.py:104} INFO - [2023-12-15 00:04:55,505] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:04:55,515] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.141 seconds
+[2023-12-15 00:05:06,053] {scheduler_job.py:182} INFO - Started process (PID=80704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:06,055] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:05:06,056] {logging_mixin.py:104} INFO - [2023-12-15 00:05:06,056] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:06,204] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:06,241] {logging_mixin.py:104} INFO - [2023-12-15 00:05:06,241] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:05:06,267] {logging_mixin.py:104} INFO - [2023-12-15 00:05:06,267] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:05:06,293] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.243 seconds
+[2023-12-15 00:05:16,901] {scheduler_job.py:182} INFO - Started process (PID=80754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:16,902] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:05:16,903] {logging_mixin.py:104} INFO - [2023-12-15 00:05:16,903] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:17,005] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:17,036] {logging_mixin.py:104} INFO - [2023-12-15 00:05:17,036] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:05:17,055] {logging_mixin.py:104} INFO - [2023-12-15 00:05:17,055] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:05:17,065] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.167 seconds
+[2023-12-15 00:05:27,595] {scheduler_job.py:182} INFO - Started process (PID=80804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:27,597] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:05:27,598] {logging_mixin.py:104} INFO - [2023-12-15 00:05:27,598] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:27,682] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:27,704] {logging_mixin.py:104} INFO - [2023-12-15 00:05:27,704] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:05:27,725] {logging_mixin.py:104} INFO - [2023-12-15 00:05:27,724] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:05:27,734] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:05:38,086] {scheduler_job.py:182} INFO - Started process (PID=80854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:38,088] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:05:38,090] {logging_mixin.py:104} INFO - [2023-12-15 00:05:38,089] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:38,193] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:38,220] {logging_mixin.py:104} INFO - [2023-12-15 00:05:38,219] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:05:38,257] {logging_mixin.py:104} INFO - [2023-12-15 00:05:38,257] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:05:38,267] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.186 seconds
+[2023-12-15 00:05:48,764] {scheduler_job.py:182} INFO - Started process (PID=80904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:48,766] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:05:48,767] {logging_mixin.py:104} INFO - [2023-12-15 00:05:48,767] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:50,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:05:50,519] {logging_mixin.py:104} INFO - [2023-12-15 00:05:50,519] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:05:50,563] {logging_mixin.py:104} INFO - [2023-12-15 00:05:50,562] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:05:50,581] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 1.822 seconds
+[2023-12-15 00:06:01,532] {scheduler_job.py:182} INFO - Started process (PID=80954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:01,533] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:06:01,535] {logging_mixin.py:104} INFO - [2023-12-15 00:06:01,534] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:01,634] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:01,660] {logging_mixin.py:104} INFO - [2023-12-15 00:06:01,660] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:06:01,687] {logging_mixin.py:104} INFO - [2023-12-15 00:06:01,687] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:06:01,698] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.171 seconds
+[2023-12-15 00:06:11,948] {scheduler_job.py:182} INFO - Started process (PID=81004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:11,950] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:06:11,951] {logging_mixin.py:104} INFO - [2023-12-15 00:06:11,951] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:12,047] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:12,069] {logging_mixin.py:104} INFO - [2023-12-15 00:06:12,069] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:06:12,092] {logging_mixin.py:104} INFO - [2023-12-15 00:06:12,092] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:06:12,102] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.159 seconds
+[2023-12-15 00:06:22,585] {scheduler_job.py:182} INFO - Started process (PID=81054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:22,587] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:06:22,588] {logging_mixin.py:104} INFO - [2023-12-15 00:06:22,588] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:22,700] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:22,728] {logging_mixin.py:104} INFO - [2023-12-15 00:06:22,727] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:06:22,755] {logging_mixin.py:104} INFO - [2023-12-15 00:06:22,755] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:06:22,764] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.184 seconds
+[2023-12-15 00:06:32,939] {scheduler_job.py:182} INFO - Started process (PID=81104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:32,942] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:06:32,943] {logging_mixin.py:104} INFO - [2023-12-15 00:06:32,943] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:33,040] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:33,060] {logging_mixin.py:104} INFO - [2023-12-15 00:06:33,060] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:06:33,083] {logging_mixin.py:104} INFO - [2023-12-15 00:06:33,083] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:06:33,095] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.160 seconds
+[2023-12-15 00:06:43,484] {scheduler_job.py:182} INFO - Started process (PID=81154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:43,486] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:06:43,487] {logging_mixin.py:104} INFO - [2023-12-15 00:06:43,487] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:43,569] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:43,593] {logging_mixin.py:104} INFO - [2023-12-15 00:06:43,593] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:06:43,614] {logging_mixin.py:104} INFO - [2023-12-15 00:06:43,613] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:06:43,624] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.144 seconds
+[2023-12-15 00:06:53,955] {scheduler_job.py:182} INFO - Started process (PID=81204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:53,956] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:06:53,957] {logging_mixin.py:104} INFO - [2023-12-15 00:06:53,957] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:54,056] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:06:54,078] {logging_mixin.py:104} INFO - [2023-12-15 00:06:54,078] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:06:54,100] {logging_mixin.py:104} INFO - [2023-12-15 00:06:54,100] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:06:54,109] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.158 seconds
+[2023-12-15 00:07:04,556] {scheduler_job.py:182} INFO - Started process (PID=81254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:04,558] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:07:04,559] {logging_mixin.py:104} INFO - [2023-12-15 00:07:04,559] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:04,653] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:04,675] {logging_mixin.py:104} INFO - [2023-12-15 00:07:04,675] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:07:04,698] {logging_mixin.py:104} INFO - [2023-12-15 00:07:04,698] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:07:04,710] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.157 seconds
+[2023-12-15 00:07:15,025] {scheduler_job.py:182} INFO - Started process (PID=81304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:15,029] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:07:15,031] {logging_mixin.py:104} INFO - [2023-12-15 00:07:15,031] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:15,134] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:15,158] {logging_mixin.py:104} INFO - [2023-12-15 00:07:15,158] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:07:15,189] {logging_mixin.py:104} INFO - [2023-12-15 00:07:15,188] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:07:15,199] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.179 seconds
+[2023-12-15 00:07:25,561] {scheduler_job.py:182} INFO - Started process (PID=81354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:25,563] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:07:25,564] {logging_mixin.py:104} INFO - [2023-12-15 00:07:25,564] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:25,659] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:25,685] {logging_mixin.py:104} INFO - [2023-12-15 00:07:25,685] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:07:25,715] {logging_mixin.py:104} INFO - [2023-12-15 00:07:25,715] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:07:25,728] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.171 seconds
+[2023-12-15 00:07:36,258] {scheduler_job.py:182} INFO - Started process (PID=81404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:36,262] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:07:36,263] {logging_mixin.py:104} INFO - [2023-12-15 00:07:36,263] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:36,351] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:36,371] {logging_mixin.py:104} INFO - [2023-12-15 00:07:36,371] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:07:36,394] {logging_mixin.py:104} INFO - [2023-12-15 00:07:36,393] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:07:36,401] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.146 seconds
+[2023-12-15 00:07:46,847] {scheduler_job.py:182} INFO - Started process (PID=81454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:46,850] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:07:46,851] {logging_mixin.py:104} INFO - [2023-12-15 00:07:46,851] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:46,964] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:46,992] {logging_mixin.py:104} INFO - [2023-12-15 00:07:46,992] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:07:47,019] {logging_mixin.py:104} INFO - [2023-12-15 00:07:47,019] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:07:47,030] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.187 seconds
+[2023-12-15 00:07:57,433] {scheduler_job.py:182} INFO - Started process (PID=81504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:57,436] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:07:57,437] {logging_mixin.py:104} INFO - [2023-12-15 00:07:57,437] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:57,759] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:07:57,790] {logging_mixin.py:104} INFO - [2023-12-15 00:07:57,790] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:07:58,221] {logging_mixin.py:104} INFO - [2023-12-15 00:07:58,221] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:07:58,249] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.821 seconds
+[2023-12-15 00:08:09,736] {scheduler_job.py:182} INFO - Started process (PID=81554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:09,738] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:08:09,739] {logging_mixin.py:104} INFO - [2023-12-15 00:08:09,739] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:09,827] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:09,851] {logging_mixin.py:104} INFO - [2023-12-15 00:08:09,850] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:08:09,887] {logging_mixin.py:104} INFO - [2023-12-15 00:08:09,887] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:08:09,899] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.167 seconds
+[2023-12-15 00:08:20,553] {scheduler_job.py:182} INFO - Started process (PID=81604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:20,555] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:08:20,556] {logging_mixin.py:104} INFO - [2023-12-15 00:08:20,556] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:20,652] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:20,673] {logging_mixin.py:104} INFO - [2023-12-15 00:08:20,672] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:08:20,697] {logging_mixin.py:104} INFO - [2023-12-15 00:08:20,696] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:08:20,707] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.158 seconds
+[2023-12-15 00:08:31,228] {scheduler_job.py:182} INFO - Started process (PID=81654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:31,230] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:08:31,231] {logging_mixin.py:104} INFO - [2023-12-15 00:08:31,231] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:31,317] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:31,341] {logging_mixin.py:104} INFO - [2023-12-15 00:08:31,341] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:08:31,362] {logging_mixin.py:104} INFO - [2023-12-15 00:08:31,362] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:08:31,372] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.147 seconds
+[2023-12-15 00:08:41,745] {scheduler_job.py:182} INFO - Started process (PID=81704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:41,747] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:08:41,748] {logging_mixin.py:104} INFO - [2023-12-15 00:08:41,748] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:41,844] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:41,865] {logging_mixin.py:104} INFO - [2023-12-15 00:08:41,865] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:08:41,893] {logging_mixin.py:104} INFO - [2023-12-15 00:08:41,893] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:08:41,902] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.161 seconds
+[2023-12-15 00:08:52,608] {scheduler_job.py:182} INFO - Started process (PID=81754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:52,846] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:08:52,855] {logging_mixin.py:104} INFO - [2023-12-15 00:08:52,855] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:54,172] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:08:54,256] {logging_mixin.py:104} INFO - [2023-12-15 00:08:54,255] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:08:54,287] {logging_mixin.py:104} INFO - [2023-12-15 00:08:54,287] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:08:54,300] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 1.699 seconds
+[2023-12-15 00:09:04,949] {scheduler_job.py:182} INFO - Started process (PID=81804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:04,952] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:09:04,953] {logging_mixin.py:104} INFO - [2023-12-15 00:09:04,953] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:05,047] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:05,069] {logging_mixin.py:104} INFO - [2023-12-15 00:09:05,069] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:09:05,096] {logging_mixin.py:104} INFO - [2023-12-15 00:09:05,096] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:09:05,104] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.159 seconds
+[2023-12-15 00:09:15,511] {scheduler_job.py:182} INFO - Started process (PID=81854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:15,513] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:09:15,514] {logging_mixin.py:104} INFO - [2023-12-15 00:09:15,514] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:15,619] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:15,647] {logging_mixin.py:104} INFO - [2023-12-15 00:09:15,646] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:09:15,669] {logging_mixin.py:104} INFO - [2023-12-15 00:09:15,669] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:09:15,677] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.170 seconds
+[2023-12-15 00:09:26,266] {scheduler_job.py:182} INFO - Started process (PID=81904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:26,270] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:09:26,272] {logging_mixin.py:104} INFO - [2023-12-15 00:09:26,272] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:26,383] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:26,409] {logging_mixin.py:104} INFO - [2023-12-15 00:09:26,409] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:09:26,431] {logging_mixin.py:104} INFO - [2023-12-15 00:09:26,431] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:09:26,442] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.182 seconds
+[2023-12-15 00:09:36,657] {scheduler_job.py:182} INFO - Started process (PID=81954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:36,658] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:09:36,659] {logging_mixin.py:104} INFO - [2023-12-15 00:09:36,659] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:36,756] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:36,776] {logging_mixin.py:104} INFO - [2023-12-15 00:09:36,776] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:09:36,804] {logging_mixin.py:104} INFO - [2023-12-15 00:09:36,803] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:09:36,812] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.159 seconds
+[2023-12-15 00:09:47,196] {scheduler_job.py:182} INFO - Started process (PID=82004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:47,197] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:09:47,198] {logging_mixin.py:104} INFO - [2023-12-15 00:09:47,198] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:47,289] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:47,313] {logging_mixin.py:104} INFO - [2023-12-15 00:09:47,312] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:09:47,336] {logging_mixin.py:104} INFO - [2023-12-15 00:09:47,336] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:09:47,347] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.156 seconds
+[2023-12-15 00:09:57,868] {scheduler_job.py:182} INFO - Started process (PID=82054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:57,870] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:09:57,871] {logging_mixin.py:104} INFO - [2023-12-15 00:09:57,871] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:57,991] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:09:58,020] {logging_mixin.py:104} INFO - [2023-12-15 00:09:58,020] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:09:58,051] {logging_mixin.py:104} INFO - [2023-12-15 00:09:58,051] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:09:58,061] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.198 seconds
+[2023-12-15 00:10:08,572] {scheduler_job.py:182} INFO - Started process (PID=82104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:08,573] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:10:08,574] {logging_mixin.py:104} INFO - [2023-12-15 00:10:08,574] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:08,671] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:08,699] {logging_mixin.py:104} INFO - [2023-12-15 00:10:08,699] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:10:08,720] {logging_mixin.py:104} INFO - [2023-12-15 00:10:08,720] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:10:08,731] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.163 seconds
+[2023-12-15 00:10:19,206] {scheduler_job.py:182} INFO - Started process (PID=82154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:19,208] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:10:19,209] {logging_mixin.py:104} INFO - [2023-12-15 00:10:19,209] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:19,309] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:19,331] {logging_mixin.py:104} INFO - [2023-12-15 00:10:19,331] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:10:19,369] {logging_mixin.py:104} INFO - [2023-12-15 00:10:19,369] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:10:19,379] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.177 seconds
+[2023-12-15 00:10:29,807] {scheduler_job.py:182} INFO - Started process (PID=82204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:29,809] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:10:29,810] {logging_mixin.py:104} INFO - [2023-12-15 00:10:29,810] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:29,899] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:29,920] {logging_mixin.py:104} INFO - [2023-12-15 00:10:29,920] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:10:29,946] {logging_mixin.py:104} INFO - [2023-12-15 00:10:29,945] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:10:29,954] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.149 seconds
+[2023-12-15 00:10:40,474] {scheduler_job.py:182} INFO - Started process (PID=82254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:40,476] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:10:40,477] {logging_mixin.py:104} INFO - [2023-12-15 00:10:40,477] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:40,594] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:40,617] {logging_mixin.py:104} INFO - [2023-12-15 00:10:40,617] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:10:40,643] {logging_mixin.py:104} INFO - [2023-12-15 00:10:40,642] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:10:40,652] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.183 seconds
+[2023-12-15 00:10:51,134] {scheduler_job.py:182} INFO - Started process (PID=82304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:51,137] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:10:51,138] {logging_mixin.py:104} INFO - [2023-12-15 00:10:51,138] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:51,258] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:10:51,281] {logging_mixin.py:104} INFO - [2023-12-15 00:10:51,281] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:10:51,307] {logging_mixin.py:104} INFO - [2023-12-15 00:10:51,307] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:10:51,315] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.186 seconds
+[2023-12-15 00:11:01,694] {scheduler_job.py:182} INFO - Started process (PID=82354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:01,697] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:11:01,698] {logging_mixin.py:104} INFO - [2023-12-15 00:11:01,698] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:01,797] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:01,819] {logging_mixin.py:104} INFO - [2023-12-15 00:11:01,819] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:11:01,846] {logging_mixin.py:104} INFO - [2023-12-15 00:11:01,846] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:11:01,855] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.166 seconds
+[2023-12-15 00:11:12,552] {scheduler_job.py:182} INFO - Started process (PID=82404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:12,554] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:11:12,555] {logging_mixin.py:104} INFO - [2023-12-15 00:11:12,555] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:12,662] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:12,683] {logging_mixin.py:104} INFO - [2023-12-15 00:11:12,683] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:11:12,709] {logging_mixin.py:104} INFO - [2023-12-15 00:11:12,708] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:11:12,716] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.168 seconds
+[2023-12-15 00:11:23,257] {scheduler_job.py:182} INFO - Started process (PID=82454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:23,260] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:11:23,261] {logging_mixin.py:104} INFO - [2023-12-15 00:11:23,261] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:23,431] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:23,468] {logging_mixin.py:104} INFO - [2023-12-15 00:11:23,467] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:11:23,503] {logging_mixin.py:104} INFO - [2023-12-15 00:11:23,502] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:11:23,512] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.266 seconds
+[2023-12-15 00:11:33,872] {scheduler_job.py:182} INFO - Started process (PID=82504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:33,874] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:11:33,875] {logging_mixin.py:104} INFO - [2023-12-15 00:11:33,875] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:33,985] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:34,016] {logging_mixin.py:104} INFO - [2023-12-15 00:11:34,016] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:11:34,042] {logging_mixin.py:104} INFO - [2023-12-15 00:11:34,041] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:11:34,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.185 seconds
+[2023-12-15 00:11:44,488] {scheduler_job.py:182} INFO - Started process (PID=82554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:44,490] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:11:44,492] {logging_mixin.py:104} INFO - [2023-12-15 00:11:44,491] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:44,579] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:44,606] {logging_mixin.py:104} INFO - [2023-12-15 00:11:44,605] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:11:44,627] {logging_mixin.py:104} INFO - [2023-12-15 00:11:44,627] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:11:44,640] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.157 seconds
+[2023-12-15 00:11:55,106] {scheduler_job.py:182} INFO - Started process (PID=82604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:55,108] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:11:55,109] {logging_mixin.py:104} INFO - [2023-12-15 00:11:55,109] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:55,200] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:11:55,222] {logging_mixin.py:104} INFO - [2023-12-15 00:11:55,222] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:11:55,249] {logging_mixin.py:104} INFO - [2023-12-15 00:11:55,248] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:11:55,257] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.155 seconds
+[2023-12-15 00:12:05,874] {scheduler_job.py:182} INFO - Started process (PID=82654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:05,876] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:12:05,877] {logging_mixin.py:104} INFO - [2023-12-15 00:12:05,877] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:05,966] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:05,990] {logging_mixin.py:104} INFO - [2023-12-15 00:12:05,990] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:12:06,014] {logging_mixin.py:104} INFO - [2023-12-15 00:12:06,014] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:12:06,028] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.157 seconds
+[2023-12-15 00:12:16,619] {scheduler_job.py:182} INFO - Started process (PID=82704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:16,621] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:12:16,622] {logging_mixin.py:104} INFO - [2023-12-15 00:12:16,622] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:16,716] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:16,748] {logging_mixin.py:104} INFO - [2023-12-15 00:12:16,748] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:12:16,769] {logging_mixin.py:104} INFO - [2023-12-15 00:12:16,769] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:12:16,779] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.163 seconds
+[2023-12-15 00:12:27,300] {scheduler_job.py:182} INFO - Started process (PID=82754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:27,301] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:12:27,302] {logging_mixin.py:104} INFO - [2023-12-15 00:12:27,302] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:27,405] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:27,426] {logging_mixin.py:104} INFO - [2023-12-15 00:12:27,426] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:12:27,453] {logging_mixin.py:104} INFO - [2023-12-15 00:12:27,453] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:12:27,462] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.167 seconds
+[2023-12-15 00:12:38,026] {scheduler_job.py:182} INFO - Started process (PID=82804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:38,028] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:12:38,029] {logging_mixin.py:104} INFO - [2023-12-15 00:12:38,029] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:38,124] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:38,152] {logging_mixin.py:104} INFO - [2023-12-15 00:12:38,152] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:12:38,171] {logging_mixin.py:104} INFO - [2023-12-15 00:12:38,171] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:12:38,180] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.158 seconds
+[2023-12-15 00:12:48,638] {scheduler_job.py:182} INFO - Started process (PID=82854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:48,639] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:12:48,641] {logging_mixin.py:104} INFO - [2023-12-15 00:12:48,640] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:48,719] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:48,744] {logging_mixin.py:104} INFO - [2023-12-15 00:12:48,744] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:12:48,764] {logging_mixin.py:104} INFO - [2023-12-15 00:12:48,764] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:12:48,774] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.139 seconds
+[2023-12-15 00:12:59,329] {scheduler_job.py:182} INFO - Started process (PID=82904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:59,331] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:12:59,332] {logging_mixin.py:104} INFO - [2023-12-15 00:12:59,332] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:59,425] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:12:59,447] {logging_mixin.py:104} INFO - [2023-12-15 00:12:59,447] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:12:59,467] {logging_mixin.py:104} INFO - [2023-12-15 00:12:59,466] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:12:59,475] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.150 seconds
+[2023-12-15 00:13:10,030] {scheduler_job.py:182} INFO - Started process (PID=82954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:10,032] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:13:10,033] {logging_mixin.py:104} INFO - [2023-12-15 00:13:10,033] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:10,147] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:10,177] {logging_mixin.py:104} INFO - [2023-12-15 00:13:10,177] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:13:10,198] {logging_mixin.py:104} INFO - [2023-12-15 00:13:10,198] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:13:10,207] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.182 seconds
+[2023-12-15 00:13:20,597] {scheduler_job.py:182} INFO - Started process (PID=83004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:20,598] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:13:20,599] {logging_mixin.py:104} INFO - [2023-12-15 00:13:20,599] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:20,677] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:20,699] {logging_mixin.py:104} INFO - [2023-12-15 00:13:20,699] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:13:20,719] {logging_mixin.py:104} INFO - [2023-12-15 00:13:20,719] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:13:20,734] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:13:31,144] {scheduler_job.py:182} INFO - Started process (PID=83054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:31,146] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:13:31,147] {logging_mixin.py:104} INFO - [2023-12-15 00:13:31,147] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:31,229] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:31,255] {logging_mixin.py:104} INFO - [2023-12-15 00:13:31,255] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:13:31,275] {logging_mixin.py:104} INFO - [2023-12-15 00:13:31,275] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:13:31,284] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.144 seconds
+[2023-12-15 00:13:41,832] {scheduler_job.py:182} INFO - Started process (PID=83104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:41,834] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:13:41,835] {logging_mixin.py:104} INFO - [2023-12-15 00:13:41,835] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:41,913] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:41,935] {logging_mixin.py:104} INFO - [2023-12-15 00:13:41,935] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:13:41,954] {logging_mixin.py:104} INFO - [2023-12-15 00:13:41,954] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:13:41,965] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.137 seconds
+[2023-12-15 00:13:52,415] {scheduler_job.py:182} INFO - Started process (PID=83154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:52,417] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:13:52,418] {logging_mixin.py:104} INFO - [2023-12-15 00:13:52,418] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:52,494] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:13:52,519] {logging_mixin.py:104} INFO - [2023-12-15 00:13:52,519] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:13:52,539] {logging_mixin.py:104} INFO - [2023-12-15 00:13:52,539] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:13:52,549] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.137 seconds
+[2023-12-15 00:14:03,030] {scheduler_job.py:182} INFO - Started process (PID=83204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:03,032] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:14:03,033] {logging_mixin.py:104} INFO - [2023-12-15 00:14:03,033] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:03,122] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:03,145] {logging_mixin.py:104} INFO - [2023-12-15 00:14:03,145] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:14:03,166] {logging_mixin.py:104} INFO - [2023-12-15 00:14:03,165] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:14:03,175] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.148 seconds
+[2023-12-15 00:14:13,804] {scheduler_job.py:182} INFO - Started process (PID=83254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:13,806] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:14:13,807] {logging_mixin.py:104} INFO - [2023-12-15 00:14:13,807] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:13,888] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:13,912] {logging_mixin.py:104} INFO - [2023-12-15 00:14:13,911] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:14:13,932] {logging_mixin.py:104} INFO - [2023-12-15 00:14:13,932] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:14:13,942] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:14:24,435] {scheduler_job.py:182} INFO - Started process (PID=83304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:24,436] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:14:24,437] {logging_mixin.py:104} INFO - [2023-12-15 00:14:24,437] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:24,517] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:24,538] {logging_mixin.py:104} INFO - [2023-12-15 00:14:24,538] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:14:24,558] {logging_mixin.py:104} INFO - [2023-12-15 00:14:24,558] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:14:24,568] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.137 seconds
+[2023-12-15 00:14:35,077] {scheduler_job.py:182} INFO - Started process (PID=83354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:35,078] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:14:35,079] {logging_mixin.py:104} INFO - [2023-12-15 00:14:35,079] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:35,160] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:35,182] {logging_mixin.py:104} INFO - [2023-12-15 00:14:35,182] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:14:35,202] {logging_mixin.py:104} INFO - [2023-12-15 00:14:35,202] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:14:35,211] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.138 seconds
+[2023-12-15 00:14:45,804] {scheduler_job.py:182} INFO - Started process (PID=83404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:45,805] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:14:45,806] {logging_mixin.py:104} INFO - [2023-12-15 00:14:45,806] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:45,887] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:45,909] {logging_mixin.py:104} INFO - [2023-12-15 00:14:45,909] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:14:45,929] {logging_mixin.py:104} INFO - [2023-12-15 00:14:45,928] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:14:45,939] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.139 seconds
+[2023-12-15 00:14:56,452] {scheduler_job.py:182} INFO - Started process (PID=83454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:56,455] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:14:56,458] {logging_mixin.py:104} INFO - [2023-12-15 00:14:56,457] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:56,542] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:14:56,566] {logging_mixin.py:104} INFO - [2023-12-15 00:14:56,566] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:14:56,587] {logging_mixin.py:104} INFO - [2023-12-15 00:14:56,587] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:14:56,595] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.149 seconds
+[2023-12-15 00:15:07,058] {scheduler_job.py:182} INFO - Started process (PID=83504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:07,059] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:15:07,061] {logging_mixin.py:104} INFO - [2023-12-15 00:15:07,060] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:07,155] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:07,177] {logging_mixin.py:104} INFO - [2023-12-15 00:15:07,177] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:15:07,197] {logging_mixin.py:104} INFO - [2023-12-15 00:15:07,197] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:15:07,206] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.152 seconds
+[2023-12-15 00:15:17,694] {scheduler_job.py:182} INFO - Started process (PID=83554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:17,696] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:15:17,697] {logging_mixin.py:104} INFO - [2023-12-15 00:15:17,697] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:17,794] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:17,825] {logging_mixin.py:104} INFO - [2023-12-15 00:15:17,824] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:15:17,847] {logging_mixin.py:104} INFO - [2023-12-15 00:15:17,847] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:15:17,857] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.167 seconds
+[2023-12-15 00:15:28,246] {scheduler_job.py:182} INFO - Started process (PID=83604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:28,248] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:15:28,249] {logging_mixin.py:104} INFO - [2023-12-15 00:15:28,249] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:28,328] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:28,350] {logging_mixin.py:104} INFO - [2023-12-15 00:15:28,350] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:15:28,370] {logging_mixin.py:104} INFO - [2023-12-15 00:15:28,369] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:15:28,380] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.137 seconds
+[2023-12-15 00:15:38,875] {scheduler_job.py:182} INFO - Started process (PID=83654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:38,876] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:15:38,878] {logging_mixin.py:104} INFO - [2023-12-15 00:15:38,877] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:38,957] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:38,978] {logging_mixin.py:104} INFO - [2023-12-15 00:15:38,978] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:15:39,005] {logging_mixin.py:104} INFO - [2023-12-15 00:15:39,004] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:15:39,016] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.145 seconds
+[2023-12-15 00:15:49,508] {scheduler_job.py:182} INFO - Started process (PID=83704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:49,510] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:15:49,511] {logging_mixin.py:104} INFO - [2023-12-15 00:15:49,510] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:49,592] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:15:49,613] {logging_mixin.py:104} INFO - [2023-12-15 00:15:49,613] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:15:49,634] {logging_mixin.py:104} INFO - [2023-12-15 00:15:49,634] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:15:49,646] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:16:00,118] {scheduler_job.py:182} INFO - Started process (PID=83754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:00,119] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:16:00,120] {logging_mixin.py:104} INFO - [2023-12-15 00:16:00,120] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:00,201] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:00,222] {logging_mixin.py:104} INFO - [2023-12-15 00:16:00,222] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:16:00,242] {logging_mixin.py:104} INFO - [2023-12-15 00:16:00,242] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:16:00,252] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.138 seconds
+[2023-12-15 00:16:10,782] {scheduler_job.py:182} INFO - Started process (PID=83804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:10,784] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:16:10,785] {logging_mixin.py:104} INFO - [2023-12-15 00:16:10,785] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:10,882] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:10,905] {logging_mixin.py:104} INFO - [2023-12-15 00:16:10,905] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:16:10,928] {logging_mixin.py:104} INFO - [2023-12-15 00:16:10,928] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:16:10,938] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.160 seconds
+[2023-12-15 00:16:21,449] {scheduler_job.py:182} INFO - Started process (PID=83854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:21,451] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:16:21,452] {logging_mixin.py:104} INFO - [2023-12-15 00:16:21,452] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:21,532] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:21,553] {logging_mixin.py:104} INFO - [2023-12-15 00:16:21,553] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:16:21,574] {logging_mixin.py:104} INFO - [2023-12-15 00:16:21,574] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:16:21,585] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.139 seconds
+[2023-12-15 00:16:32,027] {scheduler_job.py:182} INFO - Started process (PID=83904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:32,030] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:16:32,031] {logging_mixin.py:104} INFO - [2023-12-15 00:16:32,031] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:32,109] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:32,135] {logging_mixin.py:104} INFO - [2023-12-15 00:16:32,134] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:16:32,154] {logging_mixin.py:104} INFO - [2023-12-15 00:16:32,154] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:16:32,163] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:16:42,682] {scheduler_job.py:182} INFO - Started process (PID=83954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:42,685] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:16:42,686] {logging_mixin.py:104} INFO - [2023-12-15 00:16:42,686] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:42,772] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:42,792] {logging_mixin.py:104} INFO - [2023-12-15 00:16:42,792] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:16:42,813] {logging_mixin.py:104} INFO - [2023-12-15 00:16:42,812] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:16:42,823] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.144 seconds
+[2023-12-15 00:16:53,331] {scheduler_job.py:182} INFO - Started process (PID=84004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:53,334] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:16:53,335] {logging_mixin.py:104} INFO - [2023-12-15 00:16:53,334] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:53,419] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:16:53,445] {logging_mixin.py:104} INFO - [2023-12-15 00:16:53,445] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:16:53,469] {logging_mixin.py:104} INFO - [2023-12-15 00:16:53,469] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:16:53,480] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.152 seconds
+[2023-12-15 00:17:03,977] {scheduler_job.py:182} INFO - Started process (PID=84054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:03,980] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:17:03,981] {logging_mixin.py:104} INFO - [2023-12-15 00:17:03,981] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:04,064] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:04,084] {logging_mixin.py:104} INFO - [2023-12-15 00:17:04,084] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:17:04,103] {logging_mixin.py:104} INFO - [2023-12-15 00:17:04,103] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:17:04,113] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:17:14,667] {scheduler_job.py:182} INFO - Started process (PID=84104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:14,669] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:17:14,671] {logging_mixin.py:104} INFO - [2023-12-15 00:17:14,671] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:14,758] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:14,779] {logging_mixin.py:104} INFO - [2023-12-15 00:17:14,779] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:17:14,799] {logging_mixin.py:104} INFO - [2023-12-15 00:17:14,799] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:17:14,809] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.146 seconds
+[2023-12-15 00:17:25,300] {scheduler_job.py:182} INFO - Started process (PID=84154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:25,301] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:17:25,302] {logging_mixin.py:104} INFO - [2023-12-15 00:17:25,302] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:25,381] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:25,402] {logging_mixin.py:104} INFO - [2023-12-15 00:17:25,402] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:17:25,422] {logging_mixin.py:104} INFO - [2023-12-15 00:17:25,422] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:17:25,432] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.136 seconds
+[2023-12-15 00:17:36,054] {scheduler_job.py:182} INFO - Started process (PID=84204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:36,056] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:17:36,057] {logging_mixin.py:104} INFO - [2023-12-15 00:17:36,057] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:36,140] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:36,161] {logging_mixin.py:104} INFO - [2023-12-15 00:17:36,161] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:17:36,181] {logging_mixin.py:104} INFO - [2023-12-15 00:17:36,181] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:17:36,190] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:17:46,713] {scheduler_job.py:182} INFO - Started process (PID=84254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:46,715] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:17:46,716] {logging_mixin.py:104} INFO - [2023-12-15 00:17:46,716] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:46,799] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:46,820] {logging_mixin.py:104} INFO - [2023-12-15 00:17:46,820] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:17:46,839] {logging_mixin.py:104} INFO - [2023-12-15 00:17:46,839] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:17:46,849] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:17:57,343] {scheduler_job.py:182} INFO - Started process (PID=84304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:57,344] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:17:57,345] {logging_mixin.py:104} INFO - [2023-12-15 00:17:57,345] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:57,424] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:17:57,445] {logging_mixin.py:104} INFO - [2023-12-15 00:17:57,445] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:17:57,464] {logging_mixin.py:104} INFO - [2023-12-15 00:17:57,464] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:17:57,474] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.136 seconds
+[2023-12-15 00:18:07,912] {scheduler_job.py:182} INFO - Started process (PID=84354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:07,915] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:18:07,917] {logging_mixin.py:104} INFO - [2023-12-15 00:18:07,916] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:07,998] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:08,021] {logging_mixin.py:104} INFO - [2023-12-15 00:18:08,021] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:18:08,042] {logging_mixin.py:104} INFO - [2023-12-15 00:18:08,042] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:18:08,051] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:18:18,657] {scheduler_job.py:182} INFO - Started process (PID=84404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:18,659] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:18:18,660] {logging_mixin.py:104} INFO - [2023-12-15 00:18:18,660] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:18,746] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:18,770] {logging_mixin.py:104} INFO - [2023-12-15 00:18:18,770] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:18:18,790] {logging_mixin.py:104} INFO - [2023-12-15 00:18:18,790] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:18:18,799] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.147 seconds
+[2023-12-15 00:18:29,303] {scheduler_job.py:182} INFO - Started process (PID=84454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:29,306] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:18:29,308] {logging_mixin.py:104} INFO - [2023-12-15 00:18:29,307] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:29,388] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:29,409] {logging_mixin.py:104} INFO - [2023-12-15 00:18:29,409] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:18:29,429] {logging_mixin.py:104} INFO - [2023-12-15 00:18:29,429] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:18:29,439] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:18:39,866] {scheduler_job.py:182} INFO - Started process (PID=84504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:39,868] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:18:39,869] {logging_mixin.py:104} INFO - [2023-12-15 00:18:39,869] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:39,961] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:39,982] {logging_mixin.py:104} INFO - [2023-12-15 00:18:39,982] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:18:40,002] {logging_mixin.py:104} INFO - [2023-12-15 00:18:40,001] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:18:40,016] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.153 seconds
+[2023-12-15 00:18:50,591] {scheduler_job.py:182} INFO - Started process (PID=84554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:50,594] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:18:50,595] {logging_mixin.py:104} INFO - [2023-12-15 00:18:50,595] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:50,673] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:18:50,695] {logging_mixin.py:104} INFO - [2023-12-15 00:18:50,695] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:18:50,714] {logging_mixin.py:104} INFO - [2023-12-15 00:18:50,714] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:18:50,725] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.137 seconds
+[2023-12-15 00:19:01,264] {scheduler_job.py:182} INFO - Started process (PID=84604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:01,267] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:19:01,268] {logging_mixin.py:104} INFO - [2023-12-15 00:19:01,268] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:01,357] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:01,379] {logging_mixin.py:104} INFO - [2023-12-15 00:19:01,379] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:19:01,399] {logging_mixin.py:104} INFO - [2023-12-15 00:19:01,399] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:19:01,407] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.148 seconds
+[2023-12-15 00:19:11,827] {scheduler_job.py:182} INFO - Started process (PID=84654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:11,830] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:19:11,831] {logging_mixin.py:104} INFO - [2023-12-15 00:19:11,831] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:11,913] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:11,935] {logging_mixin.py:104} INFO - [2023-12-15 00:19:11,935] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:19:11,955] {logging_mixin.py:104} INFO - [2023-12-15 00:19:11,955] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:19:11,964] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.141 seconds
+[2023-12-15 00:19:22,412] {scheduler_job.py:182} INFO - Started process (PID=84704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:22,415] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:19:22,416] {logging_mixin.py:104} INFO - [2023-12-15 00:19:22,416] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:22,500] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:22,521] {logging_mixin.py:104} INFO - [2023-12-15 00:19:22,521] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:19:22,541] {logging_mixin.py:104} INFO - [2023-12-15 00:19:22,541] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:19:22,551] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.143 seconds
+[2023-12-15 00:19:33,016] {scheduler_job.py:182} INFO - Started process (PID=84754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:33,022] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:19:33,023] {logging_mixin.py:104} INFO - [2023-12-15 00:19:33,023] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:33,111] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:33,136] {logging_mixin.py:104} INFO - [2023-12-15 00:19:33,136] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:19:33,162] {logging_mixin.py:104} INFO - [2023-12-15 00:19:33,162] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:19:33,173] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.161 seconds
+[2023-12-15 00:19:43,618] {scheduler_job.py:182} INFO - Started process (PID=84804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:43,620] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:19:43,622] {logging_mixin.py:104} INFO - [2023-12-15 00:19:43,621] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:43,716] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:43,742] {logging_mixin.py:104} INFO - [2023-12-15 00:19:43,742] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:19:43,767] {logging_mixin.py:104} INFO - [2023-12-15 00:19:43,767] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:19:43,777] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.162 seconds
+[2023-12-15 00:19:54,282] {scheduler_job.py:182} INFO - Started process (PID=84854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:54,286] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:19:54,287] {logging_mixin.py:104} INFO - [2023-12-15 00:19:54,287] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:54,369] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:19:54,391] {logging_mixin.py:104} INFO - [2023-12-15 00:19:54,391] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:19:54,411] {logging_mixin.py:104} INFO - [2023-12-15 00:19:54,411] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:19:54,421] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:20:04,917] {scheduler_job.py:182} INFO - Started process (PID=84904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:04,919] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:20:04,920] {logging_mixin.py:104} INFO - [2023-12-15 00:20:04,920] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:04,999] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:05,023] {logging_mixin.py:104} INFO - [2023-12-15 00:20:05,023] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:20:05,043] {logging_mixin.py:104} INFO - [2023-12-15 00:20:05,043] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:20:05,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:20:15,785] {scheduler_job.py:182} INFO - Started process (PID=84954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:15,787] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:20:15,789] {logging_mixin.py:104} INFO - [2023-12-15 00:20:15,788] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:15,900] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:15,951] {logging_mixin.py:104} INFO - [2023-12-15 00:20:15,951] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:20:15,985] {logging_mixin.py:104} INFO - [2023-12-15 00:20:15,985] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:20:15,995] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.214 seconds
+[2023-12-15 00:20:26,620] {scheduler_job.py:182} INFO - Started process (PID=85004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:26,633] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:20:26,634] {logging_mixin.py:104} INFO - [2023-12-15 00:20:26,634] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:26,901] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:26,933] {logging_mixin.py:104} INFO - [2023-12-15 00:20:26,932] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:20:26,972] {logging_mixin.py:104} INFO - [2023-12-15 00:20:26,971] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:20:26,984] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.369 seconds
+[2023-12-15 00:20:37,242] {scheduler_job.py:182} INFO - Started process (PID=85054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:37,244] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:20:37,245] {logging_mixin.py:104} INFO - [2023-12-15 00:20:37,245] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:37,330] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:37,352] {logging_mixin.py:104} INFO - [2023-12-15 00:20:37,352] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:20:37,373] {logging_mixin.py:104} INFO - [2023-12-15 00:20:37,373] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:20:37,381] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:20:47,938] {scheduler_job.py:182} INFO - Started process (PID=85104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:47,940] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:20:47,941] {logging_mixin.py:104} INFO - [2023-12-15 00:20:47,941] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:48,046] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:48,077] {logging_mixin.py:104} INFO - [2023-12-15 00:20:48,077] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:20:48,097] {logging_mixin.py:104} INFO - [2023-12-15 00:20:48,097] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:20:48,107] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.172 seconds
+[2023-12-15 00:20:58,618] {scheduler_job.py:182} INFO - Started process (PID=85154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:58,620] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:20:58,621] {logging_mixin.py:104} INFO - [2023-12-15 00:20:58,621] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:58,746] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:20:58,788] {logging_mixin.py:104} INFO - [2023-12-15 00:20:58,788] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:20:58,824] {logging_mixin.py:104} INFO - [2023-12-15 00:20:58,824] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:20:58,837] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.223 seconds
+[2023-12-15 00:21:09,341] {scheduler_job.py:182} INFO - Started process (PID=85204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:09,343] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:21:09,344] {logging_mixin.py:104} INFO - [2023-12-15 00:21:09,344] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:09,462] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:09,493] {logging_mixin.py:104} INFO - [2023-12-15 00:21:09,493] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:21:09,524] {logging_mixin.py:104} INFO - [2023-12-15 00:21:09,524] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:21:09,534] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.196 seconds
+[2023-12-15 00:21:20,201] {scheduler_job.py:182} INFO - Started process (PID=85254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:20,204] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:21:20,205] {logging_mixin.py:104} INFO - [2023-12-15 00:21:20,205] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:20,293] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:20,313] {logging_mixin.py:104} INFO - [2023-12-15 00:21:20,313] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:21:20,337] {logging_mixin.py:104} INFO - [2023-12-15 00:21:20,336] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:21:20,344] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.146 seconds
+[2023-12-15 00:21:30,867] {scheduler_job.py:182} INFO - Started process (PID=85304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:30,869] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:21:30,870] {logging_mixin.py:104} INFO - [2023-12-15 00:21:30,870] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:30,959] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:30,988] {logging_mixin.py:104} INFO - [2023-12-15 00:21:30,988] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:21:31,013] {logging_mixin.py:104} INFO - [2023-12-15 00:21:31,013] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:21:31,025] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.161 seconds
+[2023-12-15 00:21:41,572] {scheduler_job.py:182} INFO - Started process (PID=85354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:41,574] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:21:41,575] {logging_mixin.py:104} INFO - [2023-12-15 00:21:41,575] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:41,691] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:41,723] {logging_mixin.py:104} INFO - [2023-12-15 00:21:41,722] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:21:41,749] {logging_mixin.py:104} INFO - [2023-12-15 00:21:41,749] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:21:41,761] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.195 seconds
+[2023-12-15 00:21:52,231] {scheduler_job.py:182} INFO - Started process (PID=85404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:52,233] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:21:52,234] {logging_mixin.py:104} INFO - [2023-12-15 00:21:52,234] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:52,317] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:21:52,338] {logging_mixin.py:104} INFO - [2023-12-15 00:21:52,338] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:21:52,358] {logging_mixin.py:104} INFO - [2023-12-15 00:21:52,358] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:21:52,368] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:22:02,877] {scheduler_job.py:182} INFO - Started process (PID=85454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:02,878] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:22:02,879] {logging_mixin.py:104} INFO - [2023-12-15 00:22:02,879] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:02,958] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:02,979] {logging_mixin.py:104} INFO - [2023-12-15 00:22:02,979] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:22:02,999] {logging_mixin.py:104} INFO - [2023-12-15 00:22:02,999] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:22:03,008] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.135 seconds
+[2023-12-15 00:22:13,509] {scheduler_job.py:182} INFO - Started process (PID=85504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:13,511] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:22:13,512] {logging_mixin.py:104} INFO - [2023-12-15 00:22:13,512] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:13,605] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:13,626] {logging_mixin.py:104} INFO - [2023-12-15 00:22:13,625] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:22:13,645] {logging_mixin.py:104} INFO - [2023-12-15 00:22:13,645] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:22:13,655] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.149 seconds
+[2023-12-15 00:22:24,337] {scheduler_job.py:182} INFO - Started process (PID=85554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:24,339] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:22:24,340] {logging_mixin.py:104} INFO - [2023-12-15 00:22:24,340] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:24,425] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:24,446] {logging_mixin.py:104} INFO - [2023-12-15 00:22:24,446] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:22:24,466] {logging_mixin.py:104} INFO - [2023-12-15 00:22:24,466] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:22:24,476] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.142 seconds
+[2023-12-15 00:22:35,377] {scheduler_job.py:182} INFO - Started process (PID=85604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:35,380] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:22:35,381] {logging_mixin.py:104} INFO - [2023-12-15 00:22:35,381] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:35,460] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:35,481] {logging_mixin.py:104} INFO - [2023-12-15 00:22:35,480] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:22:35,500] {logging_mixin.py:104} INFO - [2023-12-15 00:22:35,500] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:22:35,511] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.137 seconds
+[2023-12-15 00:22:45,973] {scheduler_job.py:182} INFO - Started process (PID=85654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:45,976] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:22:45,977] {logging_mixin.py:104} INFO - [2023-12-15 00:22:45,977] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:46,067] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:46,088] {logging_mixin.py:104} INFO - [2023-12-15 00:22:46,088] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:22:46,108] {logging_mixin.py:104} INFO - [2023-12-15 00:22:46,108] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:22:46,118] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.149 seconds
+[2023-12-15 00:22:56,694] {scheduler_job.py:182} INFO - Started process (PID=85704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:56,697] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:22:56,698] {logging_mixin.py:104} INFO - [2023-12-15 00:22:56,698] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:56,777] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:22:56,799] {logging_mixin.py:104} INFO - [2023-12-15 00:22:56,798] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:22:56,818] {logging_mixin.py:104} INFO - [2023-12-15 00:22:56,818] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:22:56,828] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.137 seconds
+[2023-12-15 00:23:07,559] {scheduler_job.py:182} INFO - Started process (PID=85754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:07,564] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:23:07,565] {logging_mixin.py:104} INFO - [2023-12-15 00:23:07,565] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:07,681] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:07,718] {logging_mixin.py:104} INFO - [2023-12-15 00:23:07,717] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:23:07,744] {logging_mixin.py:104} INFO - [2023-12-15 00:23:07,743] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:23:07,753] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.198 seconds
+[2023-12-15 00:23:18,588] {scheduler_job.py:182} INFO - Started process (PID=85804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:18,593] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:23:18,594] {logging_mixin.py:104} INFO - [2023-12-15 00:23:18,594] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:18,676] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:18,698] {logging_mixin.py:104} INFO - [2023-12-15 00:23:18,698] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:23:18,724] {logging_mixin.py:104} INFO - [2023-12-15 00:23:18,724] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:23:18,733] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.148 seconds
+[2023-12-15 00:23:28,930] {scheduler_job.py:182} INFO - Started process (PID=85854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:28,934] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:23:28,937] {logging_mixin.py:104} INFO - [2023-12-15 00:23:28,937] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:29,041] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:29,070] {logging_mixin.py:104} INFO - [2023-12-15 00:23:29,070] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:23:29,095] {logging_mixin.py:104} INFO - [2023-12-15 00:23:29,095] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:23:29,106] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.181 seconds
+[2023-12-15 00:23:39,786] {scheduler_job.py:182} INFO - Started process (PID=85904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:39,788] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:23:39,790] {logging_mixin.py:104} INFO - [2023-12-15 00:23:39,789] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:39,875] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:39,899] {logging_mixin.py:104} INFO - [2023-12-15 00:23:39,898] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:23:39,927] {logging_mixin.py:104} INFO - [2023-12-15 00:23:39,927] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:23:39,938] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.155 seconds
+[2023-12-15 00:23:50,227] {scheduler_job.py:182} INFO - Started process (PID=85954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:50,229] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:23:50,230] {logging_mixin.py:104} INFO - [2023-12-15 00:23:50,230] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:50,320] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:23:50,346] {logging_mixin.py:104} INFO - [2023-12-15 00:23:50,346] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:23:50,367] {logging_mixin.py:104} INFO - [2023-12-15 00:23:50,367] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:23:50,381] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.157 seconds
+[2023-12-15 00:24:00,784] {scheduler_job.py:182} INFO - Started process (PID=86004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:00,786] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:24:00,787] {logging_mixin.py:104} INFO - [2023-12-15 00:24:00,787] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:00,888] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:00,911] {logging_mixin.py:104} INFO - [2023-12-15 00:24:00,911] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:24:00,932] {logging_mixin.py:104} INFO - [2023-12-15 00:24:00,931] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:24:00,942] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.161 seconds
+[2023-12-15 00:24:11,495] {scheduler_job.py:182} INFO - Started process (PID=86054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:11,498] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:24:11,501] {logging_mixin.py:104} INFO - [2023-12-15 00:24:11,500] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:11,915] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:11,959] {logging_mixin.py:104} INFO - [2023-12-15 00:24:11,959] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:24:12,004] {logging_mixin.py:104} INFO - [2023-12-15 00:24:12,004] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:24:12,033] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.543 seconds
+[2023-12-15 00:24:22,237] {scheduler_job.py:182} INFO - Started process (PID=86104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:22,239] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:24:22,240] {logging_mixin.py:104} INFO - [2023-12-15 00:24:22,240] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:22,331] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:22,353] {logging_mixin.py:104} INFO - [2023-12-15 00:24:22,352] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:24:22,372] {logging_mixin.py:104} INFO - [2023-12-15 00:24:22,372] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:24:22,382] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.148 seconds
+[2023-12-15 00:24:32,822] {scheduler_job.py:182} INFO - Started process (PID=86154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:32,824] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:24:32,825] {logging_mixin.py:104} INFO - [2023-12-15 00:24:32,825] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:32,944] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:32,977] {logging_mixin.py:104} INFO - [2023-12-15 00:24:32,977] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:24:33,002] {logging_mixin.py:104} INFO - [2023-12-15 00:24:33,002] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:24:33,015] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.199 seconds
+[2023-12-15 00:24:43,428] {scheduler_job.py:182} INFO - Started process (PID=86204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:43,430] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:24:43,431] {logging_mixin.py:104} INFO - [2023-12-15 00:24:43,431] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:43,539] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:43,563] {logging_mixin.py:104} INFO - [2023-12-15 00:24:43,563] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:24:43,588] {logging_mixin.py:104} INFO - [2023-12-15 00:24:43,588] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:24:43,596] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.172 seconds
+[2023-12-15 00:24:54,095] {scheduler_job.py:182} INFO - Started process (PID=86254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:54,096] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:24:54,097] {logging_mixin.py:104} INFO - [2023-12-15 00:24:54,097] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:54,183] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:24:54,208] {logging_mixin.py:104} INFO - [2023-12-15 00:24:54,207] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:24:54,235] {logging_mixin.py:104} INFO - [2023-12-15 00:24:54,235] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:24:54,244] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.152 seconds
+[2023-12-15 00:25:04,845] {scheduler_job.py:182} INFO - Started process (PID=86304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:04,847] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:25:04,848] {logging_mixin.py:104} INFO - [2023-12-15 00:25:04,848] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:04,930] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:04,951] {logging_mixin.py:104} INFO - [2023-12-15 00:25:04,951] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:25:04,971] {logging_mixin.py:104} INFO - [2023-12-15 00:25:04,971] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:25:04,981] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:25:15,480] {scheduler_job.py:182} INFO - Started process (PID=86354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:15,484] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:25:15,485] {logging_mixin.py:104} INFO - [2023-12-15 00:25:15,485] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:15,599] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:15,631] {logging_mixin.py:104} INFO - [2023-12-15 00:25:15,631] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:25:15,659] {logging_mixin.py:104} INFO - [2023-12-15 00:25:15,659] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:25:15,671] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.196 seconds
+[2023-12-15 00:25:26,254] {scheduler_job.py:182} INFO - Started process (PID=86404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:26,257] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:25:26,258] {logging_mixin.py:104} INFO - [2023-12-15 00:25:26,258] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:26,367] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:26,397] {logging_mixin.py:104} INFO - [2023-12-15 00:25:26,396] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:25:26,420] {logging_mixin.py:104} INFO - [2023-12-15 00:25:26,420] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:25:26,429] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.179 seconds
+[2023-12-15 00:25:37,132] {scheduler_job.py:182} INFO - Started process (PID=86454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:37,135] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:25:37,136] {logging_mixin.py:104} INFO - [2023-12-15 00:25:37,136] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:37,235] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:37,267] {logging_mixin.py:104} INFO - [2023-12-15 00:25:37,267] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:25:37,296] {logging_mixin.py:104} INFO - [2023-12-15 00:25:37,296] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:25:37,307] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.180 seconds
+[2023-12-15 00:25:47,898] {scheduler_job.py:182} INFO - Started process (PID=86504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:47,900] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:25:47,901] {logging_mixin.py:104} INFO - [2023-12-15 00:25:47,901] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:48,038] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:48,085] {logging_mixin.py:104} INFO - [2023-12-15 00:25:48,085] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:25:48,112] {logging_mixin.py:104} INFO - [2023-12-15 00:25:48,111] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:25:48,119] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.225 seconds
+[2023-12-15 00:25:58,351] {scheduler_job.py:182} INFO - Started process (PID=86554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:58,352] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:25:58,353] {logging_mixin.py:104} INFO - [2023-12-15 00:25:58,353] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:58,439] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:25:58,462] {logging_mixin.py:104} INFO - [2023-12-15 00:25:58,462] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:25:58,485] {logging_mixin.py:104} INFO - [2023-12-15 00:25:58,485] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:25:58,496] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.149 seconds
+[2023-12-15 00:26:09,274] {scheduler_job.py:182} INFO - Started process (PID=86604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:09,276] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:26:09,277] {logging_mixin.py:104} INFO - [2023-12-15 00:26:09,277] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:09,792] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:09,886] {logging_mixin.py:104} INFO - [2023-12-15 00:26:09,885] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:26:10,062] {logging_mixin.py:104} INFO - [2023-12-15 00:26:10,045] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:26:10,120] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.852 seconds
+[2023-12-15 00:26:20,874] {scheduler_job.py:182} INFO - Started process (PID=86654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:20,876] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:26:20,877] {logging_mixin.py:104} INFO - [2023-12-15 00:26:20,877] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:20,966] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:20,993] {logging_mixin.py:104} INFO - [2023-12-15 00:26:20,992] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:26:21,023] {logging_mixin.py:104} INFO - [2023-12-15 00:26:21,023] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:26:21,032] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.161 seconds
+[2023-12-15 00:26:31,501] {scheduler_job.py:182} INFO - Started process (PID=86704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:31,512] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:26:31,517] {logging_mixin.py:104} INFO - [2023-12-15 00:26:31,516] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:31,632] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:31,653] {logging_mixin.py:104} INFO - [2023-12-15 00:26:31,653] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:26:31,672] {logging_mixin.py:104} INFO - [2023-12-15 00:26:31,672] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:26:31,681] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.190 seconds
+[2023-12-15 00:26:42,286] {scheduler_job.py:182} INFO - Started process (PID=86754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:42,289] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:26:42,290] {logging_mixin.py:104} INFO - [2023-12-15 00:26:42,290] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:42,381] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:42,401] {logging_mixin.py:104} INFO - [2023-12-15 00:26:42,401] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:26:42,421] {logging_mixin.py:104} INFO - [2023-12-15 00:26:42,421] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:26:42,430] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.150 seconds
+[2023-12-15 00:26:52,936] {scheduler_job.py:182} INFO - Started process (PID=86804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:52,938] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:26:52,940] {logging_mixin.py:104} INFO - [2023-12-15 00:26:52,940] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:53,050] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:26:53,078] {logging_mixin.py:104} INFO - [2023-12-15 00:26:53,078] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:26:53,099] {logging_mixin.py:104} INFO - [2023-12-15 00:26:53,099] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:26:53,114] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.185 seconds
+[2023-12-15 00:27:03,332] {scheduler_job.py:182} INFO - Started process (PID=86854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:03,334] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:27:03,335] {logging_mixin.py:104} INFO - [2023-12-15 00:27:03,335] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:03,414] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:03,435] {logging_mixin.py:104} INFO - [2023-12-15 00:27:03,435] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:27:03,455] {logging_mixin.py:104} INFO - [2023-12-15 00:27:03,455] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:27:03,465] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.138 seconds
+[2023-12-15 00:27:14,001] {scheduler_job.py:182} INFO - Started process (PID=86904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:14,003] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:27:14,004] {logging_mixin.py:104} INFO - [2023-12-15 00:27:14,004] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:14,085] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:14,106] {logging_mixin.py:104} INFO - [2023-12-15 00:27:14,106] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:27:14,125] {logging_mixin.py:104} INFO - [2023-12-15 00:27:14,125] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:27:14,137] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.140 seconds
+[2023-12-15 00:27:24,562] {scheduler_job.py:182} INFO - Started process (PID=86954) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:24,563] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:27:24,564] {logging_mixin.py:104} INFO - [2023-12-15 00:27:24,564] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:24,649] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:24,677] {logging_mixin.py:104} INFO - [2023-12-15 00:27:24,677] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:27:24,711] {logging_mixin.py:104} INFO - [2023-12-15 00:27:24,711] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:27:24,722] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.164 seconds
+[2023-12-15 00:27:35,329] {scheduler_job.py:182} INFO - Started process (PID=87004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:35,332] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:27:35,334] {logging_mixin.py:104} INFO - [2023-12-15 00:27:35,333] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:35,418] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:35,439] {logging_mixin.py:104} INFO - [2023-12-15 00:27:35,439] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:27:35,459] {logging_mixin.py:104} INFO - [2023-12-15 00:27:35,459] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:27:35,469] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.144 seconds
+[2023-12-15 00:27:45,859] {scheduler_job.py:182} INFO - Started process (PID=87054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:45,862] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:27:45,864] {logging_mixin.py:104} INFO - [2023-12-15 00:27:45,863] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:45,950] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:45,972] {logging_mixin.py:104} INFO - [2023-12-15 00:27:45,972] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:27:45,992] {logging_mixin.py:104} INFO - [2023-12-15 00:27:45,992] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:27:46,008] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.154 seconds
+[2023-12-15 00:27:56,441] {scheduler_job.py:182} INFO - Started process (PID=87104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:56,443] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:27:56,444] {logging_mixin.py:104} INFO - [2023-12-15 00:27:56,444] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:56,535] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:27:56,560] {logging_mixin.py:104} INFO - [2023-12-15 00:27:56,560] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:27:56,580] {logging_mixin.py:104} INFO - [2023-12-15 00:27:56,580] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:27:56,588] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.151 seconds
+[2023-12-15 00:28:06,722] {scheduler_job.py:182} INFO - Started process (PID=87154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:06,727] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:28:06,732] {logging_mixin.py:104} INFO - [2023-12-15 00:28:06,732] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:06,935] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:06,965] {logging_mixin.py:104} INFO - [2023-12-15 00:28:06,965] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:28:06,990] {logging_mixin.py:104} INFO - [2023-12-15 00:28:06,990] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:28:07,006] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.291 seconds
+[2023-12-15 00:28:17,538] {scheduler_job.py:182} INFO - Started process (PID=87204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:17,539] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:28:17,540] {logging_mixin.py:104} INFO - [2023-12-15 00:28:17,540] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:17,652] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:17,684] {logging_mixin.py:104} INFO - [2023-12-15 00:28:17,683] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:28:17,710] {logging_mixin.py:104} INFO - [2023-12-15 00:28:17,709] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:28:17,718] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.184 seconds
+[2023-12-15 00:28:28,435] {scheduler_job.py:182} INFO - Started process (PID=87254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:28,438] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:28:28,439] {logging_mixin.py:104} INFO - [2023-12-15 00:28:28,439] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:28,536] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:28,573] {logging_mixin.py:104} INFO - [2023-12-15 00:28:28,573] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:28:28,601] {logging_mixin.py:104} INFO - [2023-12-15 00:28:28,600] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:28:28,612] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.181 seconds
+[2023-12-15 00:28:38,946] {scheduler_job.py:182} INFO - Started process (PID=87304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:38,949] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:28:38,951] {logging_mixin.py:104} INFO - [2023-12-15 00:28:38,951] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:39,054] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:39,081] {logging_mixin.py:104} INFO - [2023-12-15 00:28:39,081] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:28:39,106] {logging_mixin.py:104} INFO - [2023-12-15 00:28:39,106] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:28:39,119] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.179 seconds
+[2023-12-15 00:28:49,705] {scheduler_job.py:182} INFO - Started process (PID=87354) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:49,711] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:28:49,714] {logging_mixin.py:104} INFO - [2023-12-15 00:28:49,714] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:49,803] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:49,840] {logging_mixin.py:104} INFO - [2023-12-15 00:28:49,840] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:28:49,860] {logging_mixin.py:104} INFO - [2023-12-15 00:28:49,860] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:28:49,870] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.169 seconds
+[2023-12-15 00:28:59,912] {scheduler_job.py:182} INFO - Started process (PID=87404) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:28:59,915] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:28:59,917] {logging_mixin.py:104} INFO - [2023-12-15 00:28:59,917] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:00,025] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:00,049] {logging_mixin.py:104} INFO - [2023-12-15 00:29:00,049] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:29:00,071] {logging_mixin.py:104} INFO - [2023-12-15 00:29:00,071] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:29:00,081] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.173 seconds
+[2023-12-15 00:29:10,612] {scheduler_job.py:182} INFO - Started process (PID=87454) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:10,616] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:29:10,617] {logging_mixin.py:104} INFO - [2023-12-15 00:29:10,617] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:10,703] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:10,734] {logging_mixin.py:104} INFO - [2023-12-15 00:29:10,734] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:29:10,766] {logging_mixin.py:104} INFO - [2023-12-15 00:29:10,766] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:29:10,781] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.173 seconds
+[2023-12-15 00:29:21,630] {scheduler_job.py:182} INFO - Started process (PID=87504) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:21,633] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:29:21,635] {logging_mixin.py:104} INFO - [2023-12-15 00:29:21,634] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:21,714] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:21,742] {logging_mixin.py:104} INFO - [2023-12-15 00:29:21,741] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:29:21,775] {logging_mixin.py:104} INFO - [2023-12-15 00:29:21,775] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:29:21,785] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.159 seconds
+[2023-12-15 00:29:32,055] {scheduler_job.py:182} INFO - Started process (PID=87554) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:32,059] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:29:32,060] {logging_mixin.py:104} INFO - [2023-12-15 00:29:32,060] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:32,293] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:32,323] {logging_mixin.py:104} INFO - [2023-12-15 00:29:32,323] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:29:32,351] {logging_mixin.py:104} INFO - [2023-12-15 00:29:32,351] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:29:32,374] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.322 seconds
+[2023-12-15 00:29:42,688] {scheduler_job.py:182} INFO - Started process (PID=87604) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:42,689] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:29:42,690] {logging_mixin.py:104} INFO - [2023-12-15 00:29:42,690] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:42,770] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:42,795] {logging_mixin.py:104} INFO - [2023-12-15 00:29:42,795] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:29:42,817] {logging_mixin.py:104} INFO - [2023-12-15 00:29:42,817] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:29:42,827] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.145 seconds
+[2023-12-15 00:29:53,613] {scheduler_job.py:182} INFO - Started process (PID=87654) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:53,616] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:29:53,630] {logging_mixin.py:104} INFO - [2023-12-15 00:29:53,630] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:53,803] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:29:53,826] {logging_mixin.py:104} INFO - [2023-12-15 00:29:53,826] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:29:53,851] {logging_mixin.py:104} INFO - [2023-12-15 00:29:53,851] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:29:53,859] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.251 seconds
+[2023-12-15 00:30:04,428] {scheduler_job.py:182} INFO - Started process (PID=87704) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:04,429] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:30:04,430] {logging_mixin.py:104} INFO - [2023-12-15 00:30:04,430] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:04,523] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:04,545] {logging_mixin.py:104} INFO - [2023-12-15 00:30:04,545] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:30:04,569] {logging_mixin.py:104} INFO - [2023-12-15 00:30:04,569] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:30:04,578] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.154 seconds
+[2023-12-15 00:30:15,331] {scheduler_job.py:182} INFO - Started process (PID=87754) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:15,335] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:30:15,338] {logging_mixin.py:104} INFO - [2023-12-15 00:30:15,338] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:15,486] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:15,521] {logging_mixin.py:104} INFO - [2023-12-15 00:30:15,521] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:30:15,548] {logging_mixin.py:104} INFO - [2023-12-15 00:30:15,548] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:30:15,558] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.231 seconds
+[2023-12-15 00:30:26,049] {scheduler_job.py:182} INFO - Started process (PID=87804) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:26,051] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:30:26,052] {logging_mixin.py:104} INFO - [2023-12-15 00:30:26,052] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:26,137] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:26,159] {logging_mixin.py:104} INFO - [2023-12-15 00:30:26,159] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:30:26,183] {logging_mixin.py:104} INFO - [2023-12-15 00:30:26,183] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:30:26,196] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.151 seconds
+[2023-12-15 00:30:36,564] {scheduler_job.py:182} INFO - Started process (PID=87854) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:36,567] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:30:36,569] {logging_mixin.py:104} INFO - [2023-12-15 00:30:36,569] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:36,647] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:36,669] {logging_mixin.py:104} INFO - [2023-12-15 00:30:36,669] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:30:36,689] {logging_mixin.py:104} INFO - [2023-12-15 00:30:36,689] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:30:36,698] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.138 seconds
+[2023-12-15 00:30:46,834] {scheduler_job.py:182} INFO - Started process (PID=87904) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:46,836] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:30:46,838] {logging_mixin.py:104} INFO - [2023-12-15 00:30:46,838] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:46,921] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:46,940] {logging_mixin.py:104} INFO - [2023-12-15 00:30:46,940] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:30:46,959] {logging_mixin.py:104} INFO - [2023-12-15 00:30:46,959] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:30:46,968] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.139 seconds
+[2023-12-15 00:30:57,010] {scheduler_job.py:182} INFO - Started process (PID=87952) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:57,011] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:30:57,016] {logging_mixin.py:104} INFO - [2023-12-15 00:30:57,016] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:57,123] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:30:57,145] {logging_mixin.py:104} INFO - [2023-12-15 00:30:57,145] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:30:57,184] {logging_mixin.py:104} INFO - [2023-12-15 00:30:57,184] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:30:57,382] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.377 seconds
+[2023-12-15 00:31:08,235] {scheduler_job.py:182} INFO - Started process (PID=88004) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:08,237] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:31:08,239] {logging_mixin.py:104} INFO - [2023-12-15 00:31:08,239] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:08,404] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:08,438] {logging_mixin.py:104} INFO - [2023-12-15 00:31:08,437] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:31:08,461] {logging_mixin.py:104} INFO - [2023-12-15 00:31:08,461] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:31:08,477] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.247 seconds
+[2023-12-15 00:31:19,233] {scheduler_job.py:182} INFO - Started process (PID=88054) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:19,237] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:31:19,238] {logging_mixin.py:104} INFO - [2023-12-15 00:31:19,238] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:19,322] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:19,343] {logging_mixin.py:104} INFO - [2023-12-15 00:31:19,343] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:31:19,363] {logging_mixin.py:104} INFO - [2023-12-15 00:31:19,363] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:31:19,375] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.146 seconds
+[2023-12-15 00:31:30,162] {scheduler_job.py:182} INFO - Started process (PID=88104) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:30,167] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:31:30,168] {logging_mixin.py:104} INFO - [2023-12-15 00:31:30,168] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:30,261] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:30,288] {logging_mixin.py:104} INFO - [2023-12-15 00:31:30,288] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:31:30,312] {logging_mixin.py:104} INFO - [2023-12-15 00:31:30,312] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:31:30,321] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.163 seconds
+[2023-12-15 00:31:40,952] {scheduler_job.py:182} INFO - Started process (PID=88154) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:40,956] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:31:40,957] {logging_mixin.py:104} INFO - [2023-12-15 00:31:40,957] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:41,145] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:41,180] {logging_mixin.py:104} INFO - [2023-12-15 00:31:41,180] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:31:41,225] {logging_mixin.py:104} INFO - [2023-12-15 00:31:41,225] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:31:41,237] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.291 seconds
+[2023-12-15 00:31:51,896] {scheduler_job.py:182} INFO - Started process (PID=88204) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:51,905] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:31:51,906] {logging_mixin.py:104} INFO - [2023-12-15 00:31:51,906] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:52,029] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:31:52,053] {logging_mixin.py:104} INFO - [2023-12-15 00:31:52,053] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:31:52,076] {logging_mixin.py:104} INFO - [2023-12-15 00:31:52,076] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:31:52,087] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.196 seconds
+[2023-12-15 00:32:02,262] {scheduler_job.py:182} INFO - Started process (PID=88254) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:02,269] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:32:02,272] {logging_mixin.py:104} INFO - [2023-12-15 00:32:02,272] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:02,470] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:02,551] {logging_mixin.py:104} INFO - [2023-12-15 00:32:02,550] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:32:02,572] {logging_mixin.py:104} INFO - [2023-12-15 00:32:02,572] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:32:02,580] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.324 seconds
+[2023-12-15 00:32:12,725] {scheduler_job.py:182} INFO - Started process (PID=88304) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:12,727] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:32:12,728] {logging_mixin.py:104} INFO - [2023-12-15 00:32:12,728] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:12,836] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:12,860] {logging_mixin.py:104} INFO - [2023-12-15 00:32:12,860] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:32:12,881] {logging_mixin.py:104} INFO - [2023-12-15 00:32:12,881] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:32:12,890] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.169 seconds
+[2023-12-15 00:32:23,463] {scheduler_job.py:182} INFO - Started process (PID=88349) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:23,470] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:32:23,473] {logging_mixin.py:104} INFO - [2023-12-15 00:32:23,473] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:23,678] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:23,718] {logging_mixin.py:104} INFO - [2023-12-15 00:32:23,718] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:32:23,759] {logging_mixin.py:104} INFO - [2023-12-15 00:32:23,759] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:32:23,773] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.319 seconds
+[2023-12-15 00:32:34,289] {scheduler_job.py:182} INFO - Started process (PID=88399) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:34,292] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:32:34,293] {logging_mixin.py:104} INFO - [2023-12-15 00:32:34,293] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:34,387] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:34,414] {logging_mixin.py:104} INFO - [2023-12-15 00:32:34,414] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:32:34,436] {logging_mixin.py:104} INFO - [2023-12-15 00:32:34,436] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:32:34,447] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.163 seconds
+[2023-12-15 00:32:44,965] {scheduler_job.py:182} INFO - Started process (PID=88449) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:44,966] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:32:44,967] {logging_mixin.py:104} INFO - [2023-12-15 00:32:44,967] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:45,223] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:45,279] {logging_mixin.py:104} INFO - [2023-12-15 00:32:45,279] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:32:45,358] {logging_mixin.py:104} INFO - [2023-12-15 00:32:45,357] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:32:45,372] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.412 seconds
+[2023-12-15 00:32:55,735] {scheduler_job.py:182} INFO - Started process (PID=88499) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:55,739] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:32:55,746] {logging_mixin.py:104} INFO - [2023-12-15 00:32:55,742] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:56,244] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:32:56,335] {logging_mixin.py:104} INFO - [2023-12-15 00:32:56,335] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:32:56,386] {logging_mixin.py:104} INFO - [2023-12-15 00:32:56,385] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:32:56,401] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.670 seconds
+[2023-12-15 00:33:07,250] {scheduler_job.py:182} INFO - Started process (PID=88549) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:07,253] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:33:07,254] {logging_mixin.py:104} INFO - [2023-12-15 00:33:07,254] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:07,366] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:07,401] {logging_mixin.py:104} INFO - [2023-12-15 00:33:07,401] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:33:07,428] {logging_mixin.py:104} INFO - [2023-12-15 00:33:07,428] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:33:07,439] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.193 seconds
+[2023-12-15 00:33:18,078] {scheduler_job.py:182} INFO - Started process (PID=88599) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:18,081] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:33:18,085] {logging_mixin.py:104} INFO - [2023-12-15 00:33:18,084] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:18,196] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:18,229] {logging_mixin.py:104} INFO - [2023-12-15 00:33:18,229] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:33:18,258] {logging_mixin.py:104} INFO - [2023-12-15 00:33:18,258] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:33:18,272] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.198 seconds
+[2023-12-15 00:33:28,830] {scheduler_job.py:182} INFO - Started process (PID=88649) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:28,836] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:33:28,838] {logging_mixin.py:104} INFO - [2023-12-15 00:33:28,838] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:29,114] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:29,187] {logging_mixin.py:104} INFO - [2023-12-15 00:33:29,187] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:33:29,238] {logging_mixin.py:104} INFO - [2023-12-15 00:33:29,238] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:33:29,250] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.423 seconds
+[2023-12-15 00:33:40,352] {scheduler_job.py:182} INFO - Started process (PID=88722) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:40,354] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:33:40,355] {logging_mixin.py:104} INFO - [2023-12-15 00:33:40,355] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:40,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:40,508] {logging_mixin.py:104} INFO - [2023-12-15 00:33:40,508] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:33:40,533] {logging_mixin.py:104} INFO - [2023-12-15 00:33:40,533] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:33:40,544] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.197 seconds
+[2023-12-15 00:33:51,184] {scheduler_job.py:182} INFO - Started process (PID=88772) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:51,187] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:33:51,190] {logging_mixin.py:104} INFO - [2023-12-15 00:33:51,190] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:51,336] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:33:51,363] {logging_mixin.py:104} INFO - [2023-12-15 00:33:51,363] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:33:51,386] {logging_mixin.py:104} INFO - [2023-12-15 00:33:51,386] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:33:51,397] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.218 seconds
+[2023-12-15 00:34:02,083] {scheduler_job.py:182} INFO - Started process (PID=88822) to work on /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:34:02,089] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_minio_s3.py for tasks to queue
+[2023-12-15 00:34:02,091] {logging_mixin.py:104} INFO - [2023-12-15 00:34:02,090] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:34:02,244] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_with_minio_s3_v02']) retrieved from /opt/airflow/dags/dag_with_minio_s3.py
+[2023-12-15 00:34:02,303] {logging_mixin.py:104} INFO - [2023-12-15 00:34:02,303] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-12-15 00:34:02,331] {logging_mixin.py:104} INFO - [2023-12-15 00:34:02,331] {dag.py:2273} INFO - Setting next_dagrun for dag_with_minio_s3_v02 to 2022-02-12T00:00:00+00:00
+[2023-12-15 00:34:02,344] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_minio_s3.py took 0.268 seconds
