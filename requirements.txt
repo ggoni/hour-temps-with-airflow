@@ -1,4 +1,6 @@
 scikit-learn
+seaborn
+pandas
 matplotlib
 python-dotenv
 requests
