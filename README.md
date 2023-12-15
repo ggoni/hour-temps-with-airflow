@@ -37,6 +37,10 @@ Here are the steps to take to get airflow 2.0 running with docker on your machin
 
 5. Check that the dag named *dag_with_python_weather* is running
 
+## Temperature measurements in December 2023
+
+![Imagen](./images/stripplot.png)
+
 ## Pending work
 
 - [ ] Fix relative paths
