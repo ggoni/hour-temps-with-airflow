@@ -12,11 +12,11 @@ data = pd.read_csv(data_folder + 'mediciones.csv')
 ax = sns.stripplot(data=data, x='lugar', y='temp_celsius',
                    hue='lugar', jitter=True, alpha=0.3)
 
-# Set seaborn style
-sns.set_theme(style='darkgrid')
+# Set seaborn style and grid color
+sns.set_theme(style='darkgrid', rc={'grid.color': 'gray'})
 
-# Set plot title, x-label, and y-label
-plt.title("Hourly temperature measurements by location")
+# Set plot title, x-label, and y-label with bold font
+plt.title("Hourly temperature measurements by location", fontweight='bold')
 ax.set_xlabel("Place (Comuna)")
 ax.set_ylabel("Temperature (ºC)")
 
