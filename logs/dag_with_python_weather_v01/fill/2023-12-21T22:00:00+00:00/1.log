@@ -1,0 +1,22 @@
+[2023-12-21 23:00:04,110] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_weather_v01.fill 2023-12-21T22:00:00+00:00 [queued]>
+[2023-12-21 23:00:04,184] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_weather_v01.fill 2023-12-21T22:00:00+00:00 [queued]>
+[2023-12-21 23:00:04,185] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-21 23:00:04,186] {taskinstance.py:1043} INFO - Starting attempt 1 of 1
+[2023-12-21 23:00:04,186] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-21 23:00:04,210] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): fill> on 2023-12-21T22:00:00+00:00
+[2023-12-21 23:00:04,234] {standard_task_runner.py:52} INFO - Started process 97860 to run task
+[2023-12-21 23:00:04,245] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_python_weather_v01', 'fill', '2023-12-21T22:00:00+00:00', '--job-id', '233', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_python_weather.py', '--cfg-path', '/tmp/tmpf0myjmsn', '--error-file', '/tmp/tmp_uncacbw']
+[2023-12-21 23:00:04,255] {standard_task_runner.py:77} INFO - Job 233: Subtask fill
+[2023-12-21 23:00:04,347] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_with_python_weather_v01.fill 2023-12-21T22:00:00+00:00 [running]> on host 5f3722f1fc3b
+[2023-12-21 23:00:04,444] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=ggoni
+AIRFLOW_CTX_DAG_ID=dag_with_python_weather_v01
+AIRFLOW_CTX_TASK_ID=fill
+AIRFLOW_CTX_EXECUTION_DATE=2023-12-21T22:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-12-21T22:00:00+00:00
+[2023-12-21 23:00:06,687] {python.py:118} INFO - Done. Returned value was: None
+[2023-12-21 23:00:06,877] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=dag_with_python_weather_v01, task_id=fill, execution_date=20231221T220000, start_date=20231221T230004, end_date=20231221T230006
+[2023-12-21 23:00:06,977] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-12-21 23:00:07,017] {local_task_job.py:146} INFO - Task exited with return code 0
